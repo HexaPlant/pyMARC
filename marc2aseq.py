@@ -145,7 +145,8 @@ for record in collection.record:
                 print (u'<datafield tag="%s" ind1="%s" ind2="%s">'%(tag,ind1,ind2))
                 for code in sorted(datafields[tag][ind1][ind2].iterkeys()):
                     sfstr=u'<subfield code="%s">%s</subfield>'%(code,datafields[tag][ind1][ind2][code])
-                    print (sfstr.replace(u'&','&amp;').encode('utf-8'))
+                    sfstr=sfstr.replace(u'&','&amp;').replace(u'<','&lt;').replace(u'>','&gt;')
+                    print (sfstr.encode('utf-8'))
                 print(u'</datafield>')
     print (u'</record>')
 print (u'</collection>')

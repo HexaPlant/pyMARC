@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <!--Errors encountered.  View 'log' for details.-->
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03752655">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC03752655title45"/>
+    <bf:creator rdf:resource="http://permalink.obvsg.at/AC03752655organization46"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC03752655topic47"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03753347">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC03753347title42"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC03753347work43"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC03753347work44"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03753347work43">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03753347work44">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03869742">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC03869742title5"/>
+    <bf:creator rdf:resource="http://permalink.obvsg.at/AC03869742organization6"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC03869742topic7"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04038983">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC04038983title36"/>
+    <bf:contributor rdf:resource="http://permalink.obvsg.at/AC04038983person37"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC04038983topic38"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC04246138title43"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC04246138topic44"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04246138work45"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04246138work46"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138work45">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138work46">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246197">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC04246197title44"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04246197work45"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04246197work46"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246197work45">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246197work46">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246263">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC04246263title40"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04246263work41"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04246263work42"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246263work41">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246263work42">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC04275411title41"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC04275411topic42"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04275411work43"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC04275411work44"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411work43">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411work44">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC08566613title4"/>
+    <bf:creator rdf:resource="http://permalink.obvsg.at/AC08566613organization5"/>
+    <bf:contributor rdf:resource="http://permalink.obvsg.at/AC08566613person6"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC08566613topic7"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC08566613topic8"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08770684">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC08770684title35"/>
+    <bf:creator rdf:resource="http://permalink.obvsg.at/AC08770684person36"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC08770684topic37"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC11114025title28"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC11114025topic29"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC11114025work30"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC11114025work31"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025work30">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025work31">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12231556title7"/>
+    <bf:creator rdf:resource="http://permalink.obvsg.at/AC12231556person8"/>
+    <bf:contributor rdf:resource="http://permalink.obvsg.at/AC12231556person9"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12231556topic10"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12239819title34"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12239819topic35"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12239819work36"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12239819work37"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819work36">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819work37">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12239832title33"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12239832topic34"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12239832work35"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12239832work36"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832work35">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832work36">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240051title32"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240051topic33"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240051work34"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240051work35"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051work34">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051work35">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240065title31"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240065topic32"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240065work33"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240065work34"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065work33">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065work34">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240089title30"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240089topic31"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240089work32"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240089work33"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089work32">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089work33">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240105title29"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240105topic30"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240105work31"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240105work32"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105work31">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105work32">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240136title27"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240136topic28"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240136work29"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240136work30"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136work29">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136work30">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240148title26"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240148topic27"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240148work28"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240148work29"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148work28">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148work29">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240158title25"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240158topic26"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240158work27"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240158work28"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158work27">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158work28">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240259title24"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240259topic25"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240259work26"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240259work27"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259work26">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259work27">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240304title23"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240304topic24"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240304work25"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240304work26"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304work25">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304work26">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12240324title22"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12240324topic23"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240324work24"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12240324work25"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324work24">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324work25">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12241850title11"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12241850topic12"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12241850work13"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12241850work14"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850work13">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850work14">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12241989title21"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12241989topic22"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12241989work23"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12241989work24"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989work23">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989work24">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12241996title12"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12241996topic13"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12241996work14"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12241996work15"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996work14">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996work15">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242007title13"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242007topic14"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242007work15"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242007work16"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007work15">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007work16">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242013title14"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242013topic15"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242013work16"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242013work17"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013work16">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013work17">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242016title15"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242016topic16"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242016work17"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242016work18"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016work17">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016work18">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242023title16"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242023topic17"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242023work18"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242023work19"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023work18">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023work19">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242030title17"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242030topic18"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242030work19"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242030work20"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030work19">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030work20">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242040title18"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242040topic19"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242040work20"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242040work21"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040work20">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040work21">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242045title19"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242045topic20"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242045work21"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242045work22"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045work21">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045work22">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242047title20"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242047topic21"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242047work22"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242047work23"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047work22">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047work23">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242056title9"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242056topic10"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242056work11"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242056work12"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056work11">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056work12">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC12242065title10"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC12242065topic11"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242065work12"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC12242065work13"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065work12">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065work13">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303831">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC13303831title6"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC13303831work7"/>
+    <bf:partOf rdf:resource="http://permalink.obvsg.at/AC13303831work8"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303831work7">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303831work8">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303840">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC13303840title37"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC13303840topic38"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303867">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC13303867title38"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC13303867topic39"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13304501">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC13304501title39"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC13304501topic40"/>
+    <bf:translationOf rdf:resource="http://permalink.obvsg.at/AC13304501work41"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13304501work41">
+    <bf:title/>
+    <bf:authorizedAccessPoint/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13375594">
+    <bf:authorizedAccessPoint/>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC13375594title8"/>
+    <bf:creator rdf:resource="http://permalink.obvsg.at/AC13375594organization9"/>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC13375594topic10"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">work</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613instance11">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC08566613title13"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC08566613"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03869742instance10">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC03869742title12"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC03869742"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303831instance11">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC13303831title13"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC13303831"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556instance13">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12231556title15"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12231556"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13375594instance13">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC13375594title15"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC13375594"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056instance15">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242056title17"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242056"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065instance16">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242065title18"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242065"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850instance17">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12241850title19"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12241850"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996instance18">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12241996title20"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12241996"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007instance19">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242007title21"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242007"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013instance20">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242013title22"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242013"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016instance21">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242016title23"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242016"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023instance22">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242023title24"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242023"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030instance23">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242030title25"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242030"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040instance24">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242040title26"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242040"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045instance25">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242045title27"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242045"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047instance26">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12242047title28"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12242047"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989instance27">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12241989title29"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12241989"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324instance28">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240324title30"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240324"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304instance29">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240304title31"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240304"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259instance30">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240259title32"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240259"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158instance31">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240158title33"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240158"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148instance32">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240148title34"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240148"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136instance33">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240136title35"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240136"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025instance34">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC11114025title36"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC11114025"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105instance35">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240105title37"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240105"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089instance36">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240089title38"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240089"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065instance37">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240065title39"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240065"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051instance38">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12240051title40"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12240051"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832instance39">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12239832title41"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12239832"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819instance40">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC12239819title42"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC12239819"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08770684instance40">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC08770684title42"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC08770684"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04038983instance41">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC04038983title43"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC04038983"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303840instance41">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC13303840title43"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC13303840"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303867instance42">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC13303867title44"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC13303867"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13304501instance44">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC13304501title46"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC13304501"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246263instance45">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC04246263title47"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC04246263"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411instance47">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC04275411title49"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC04275411"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03753347instance47">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC03753347title49"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC03753347"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138instance49">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC04246138title51"/>
+    <bf:titleVariation rdf:resource="http://permalink.obvsg.at/AC04246138title52"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC04246138"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246197instance49">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC04246197title51"/>
+    <bf:fingerprint>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/fingerprint"/>
+      </bf:Identifier>
+    </bf:fingerprint>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC04246197"/>
+  </bf:Instance>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03752655instance50">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC03752655title52"/>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC03752655"/>
+  </bf:Instance>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613annotation10">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC08566613.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC08566613"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03869742annotation9">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC03869742.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC03869742"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303831annotation10">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC13303831.marcxml.xml"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC13303831"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556annotation12">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12231556.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12231556"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13375594annotation12">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC13375594.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC13375594"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056annotation14">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242056.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242056"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065annotation15">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242065.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242065"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850annotation16">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12241850.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12241850"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996annotation17">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12241996.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12241996"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007annotation18">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242007.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242007"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013annotation19">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242013.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242013"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016annotation20">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242016.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242016"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023annotation21">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242023.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242023"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030annotation22">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242030.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242030"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040annotation23">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242040.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242040"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045annotation24">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242045.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242045"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047annotation25">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12242047.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12242047"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989annotation26">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12241989.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12241989"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324annotation27">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240324.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240324"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304annotation28">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240304.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240304"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259annotation29">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240259.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240259"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158annotation30">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240158.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240158"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148annotation31">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240148.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240148"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136annotation32">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240136.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240136"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025annotation33">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC11114025.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC11114025"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105annotation34">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240105.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240105"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089annotation35">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240089.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240089"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065annotation36">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240065.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240065"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051annotation37">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12240051.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12240051"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832annotation38">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12239832.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12239832"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819annotation39">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC12239819.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC12239819"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08770684annotation39">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC08770684.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC08770684"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04038983annotation40">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC04038983.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC04038983"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303840annotation40">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC13303840.marcxml.xml"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC13303840"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303867annotation41">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC13303867.marcxml.xml"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC13303867"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13304501annotation43">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC13304501.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC13304501"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246263annotation44">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC04246263.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC04246263"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411annotation46">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC04275411.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC04275411"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03753347annotation46">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC03753347.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC03753347"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138annotation48">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC04246138.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC04246138"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246197annotation48">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC04246197.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC04246197"/>
+  </bf:Annotation>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03752655annotation49">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC03752655.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC03752655"/>
+  </bf:Annotation>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613title4">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Organization xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613organization5">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613person6">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613topic7">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613topic8">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08566613title13">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03869742title5">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Organization xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03869742organization6">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03869742topic7">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03869742title12">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303831title6">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303831title13">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556title7">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556person8">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556person9">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556topic10">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12231556title15">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13375594title8">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Organization xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13375594organization9">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13375594topic10">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13375594title15">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056title9">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056topic10">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242056title17">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065title10">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065topic11">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242065title18">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850title11">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850topic12">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241850title19">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996title12">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996topic13">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241996title20">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007title13">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007topic14">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242007title21">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013title14">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013topic15">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242013title22">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016title15">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016topic16">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242016title23">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023title16">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023topic17">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242023title24">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030title17">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030topic18">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242030title25">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040title18">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040topic19">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242040title26">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045title19">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045topic20">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242045title27">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047title20">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047topic21">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12242047title28">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989title21">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989topic22">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12241989title29">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324title22">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324topic23">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240324title30">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304title23">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304topic24">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240304title31">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259title24">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259topic25">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240259title32">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158title25">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158topic26">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240158title33">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148title26">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148topic27">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240148title34">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136title27">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136topic28">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240136title35">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025title28">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025topic29">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC11114025title36">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105title29">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105topic30">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240105title37">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089title30">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089topic31">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240089title38">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065title31">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065topic32">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240065title39">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051title32">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051topic33">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12240051title40">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832title33">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832topic34">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239832title41">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819title34">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819topic35">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC12239819title42">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08770684title35">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08770684person36">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08770684topic37">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC08770684title42">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04038983title36">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04038983person37">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04038983topic38">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04038983title43">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303840title37">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303840topic38">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303840title43">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303867title38">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303867topic39">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13303867title44">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13304501title39">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13304501topic40">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC13304501title46">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246263title40">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246263title47">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411title41">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411topic42">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04275411title49">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03753347title42">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03753347title49">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138title43">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138topic44">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138title51">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246138title52">
+    <bf:label/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246197title44">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC04246197title51">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03752655title45">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+  <bf:Organization xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03752655organization46">
+    <bf:label/>
+    <bf:authorizedAccessPoint/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03752655topic47">
+    <bf:authorizedAccessPoint/>
+    <bf:label/>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en"/>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://permalink.obvsg.at/AC03752655title52">
+    <bf:label/>
+    <bf:titleValue/>
+  </bf:Title>
+</rdf:RDF>
