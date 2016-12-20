@@ -1,7 +1,7 @@
 # ./MARC21relaxed.py
 # -*- coding: utf-8 -*-
 # PyXB bindings for NM:5e592dacc0cf5bbbe827fb7d980f3324ca92c3dc
-# Generated 2016-12-20 16:36:46.951719 by PyXB version 1.2.4 using Python 2.7.12.final.0
+# Generated 2016-12-20 19:45:12.546663 by PyXB version 1.2.4 using Python 2.7.12.final.0
 # Namespace http://www.loc.gov/MARC21/slim
 
 from __future__ import unicode_literals
@@ -15,7 +15,7 @@ import sys
 import pyxb.utils.six as _six
 
 # Unique identifier for bindings created at the same time
-_GenerationUID = pyxb.utils.utility.UniqueIdentifier('urn:uuid:1dee294c-c6ca-11e6-93d1-00e1020040ea')
+_GenerationUID = pyxb.utils.utility.UniqueIdentifier('urn:uuid:7096dada-c6e4-11e6-8218-00e1020040ea')
 
 # Version of PyXB used to generate the bindings
 _PyXBVersion = '1.2.4'
@@ -98,11 +98,11 @@ class leaderDataType (pyxb.binding.datatypes.string):
     _ExpandedName = pyxb.namespace.ExpandedName(Namespace, 'leaderDataType')
     _XSDLocation = pyxb.utils.utility.Location('/data/code/pyMARC/xsd/MARC21relaxed.xsd', 82, 2)
     _Documentation = None
-leaderDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
 leaderDataType._CF_pattern = pyxb.binding.facets.CF_pattern()
 leaderDataType._CF_pattern.addPattern(pattern='[\\d ]{5}[\\dA-Za-z\\. ]{19}')
-leaderDataType._InitializeFacetMap(leaderDataType._CF_whiteSpace,
-   leaderDataType._CF_pattern)
+leaderDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
+leaderDataType._InitializeFacetMap(leaderDataType._CF_pattern,
+   leaderDataType._CF_whiteSpace)
 Namespace.addCategoryObject('typeBinding', 'leaderDataType', leaderDataType)
 
 # Atomic simple type: {http://www.loc.gov/MARC21/slim}controlDataType
@@ -125,11 +125,11 @@ class controltagDataType (pyxb.binding.datatypes.string):
     _ExpandedName = pyxb.namespace.ExpandedName(Namespace, 'controltagDataType')
     _XSDLocation = pyxb.utils.utility.Location('/data/code/pyMARC/xsd/MARC21relaxed.xsd', 104, 2)
     _Documentation = None
-controltagDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
 controltagDataType._CF_pattern = pyxb.binding.facets.CF_pattern()
 controltagDataType._CF_pattern.addPattern(pattern='[0-9A-Za-z]{3}')
-controltagDataType._InitializeFacetMap(controltagDataType._CF_whiteSpace,
-   controltagDataType._CF_pattern)
+controltagDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
+controltagDataType._InitializeFacetMap(controltagDataType._CF_pattern,
+   controltagDataType._CF_whiteSpace)
 Namespace.addCategoryObject('typeBinding', 'controltagDataType', controltagDataType)
 
 # Atomic simple type: {http://www.loc.gov/MARC21/slim}tagDataType
@@ -140,11 +140,11 @@ class tagDataType (pyxb.binding.datatypes.string):
     _ExpandedName = pyxb.namespace.ExpandedName(Namespace, 'tagDataType')
     _XSDLocation = pyxb.utils.utility.Location('/data/code/pyMARC/xsd/MARC21relaxed.xsd', 122, 2)
     _Documentation = None
-tagDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
 tagDataType._CF_pattern = pyxb.binding.facets.CF_pattern()
 tagDataType._CF_pattern.addPattern(pattern='(0([0-9A-Z][0-9A-Z])|0([1-9a-z][0-9a-z]))|(([1-9A-Z][0-9A-Z]{2})|([1-9a-z][0-9a-z]{2}))')
-tagDataType._InitializeFacetMap(tagDataType._CF_whiteSpace,
-   tagDataType._CF_pattern)
+tagDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
+tagDataType._InitializeFacetMap(tagDataType._CF_pattern,
+   tagDataType._CF_whiteSpace)
 Namespace.addCategoryObject('typeBinding', 'tagDataType', tagDataType)
 
 # Atomic simple type: {http://www.loc.gov/MARC21/slim}indicatorDataType
@@ -155,11 +155,11 @@ class indicatorDataType (pyxb.binding.datatypes.string):
     _ExpandedName = pyxb.namespace.ExpandedName(Namespace, 'indicatorDataType')
     _XSDLocation = pyxb.utils.utility.Location('/data/code/pyMARC/xsd/MARC21relaxed.xsd', 128, 2)
     _Documentation = None
-indicatorDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
 indicatorDataType._CF_pattern = pyxb.binding.facets.CF_pattern()
 indicatorDataType._CF_pattern.addPattern(pattern='[\\da-z ]{1}')
-indicatorDataType._InitializeFacetMap(indicatorDataType._CF_whiteSpace,
-   indicatorDataType._CF_pattern)
+indicatorDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
+indicatorDataType._InitializeFacetMap(indicatorDataType._CF_pattern,
+   indicatorDataType._CF_whiteSpace)
 Namespace.addCategoryObject('typeBinding', 'indicatorDataType', indicatorDataType)
 
 # Atomic simple type: {http://www.loc.gov/MARC21/slim}subfieldDataType
@@ -182,11 +182,11 @@ class subfieldcodeDataType (pyxb.binding.datatypes.string):
     _ExpandedName = pyxb.namespace.ExpandedName(Namespace, 'subfieldcodeDataType')
     _XSDLocation = pyxb.utils.utility.Location('/data/code/pyMARC/xsd/MARC21relaxed.xsd', 147, 2)
     _Documentation = None
-subfieldcodeDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
 subfieldcodeDataType._CF_pattern = pyxb.binding.facets.CF_pattern()
 subfieldcodeDataType._CF_pattern.addPattern(pattern='[\\dA-Za-z!"#$%&\'()*+,-./:;<=>?{}_^`~\\[\\]\\\\]{1}')
-subfieldcodeDataType._InitializeFacetMap(subfieldcodeDataType._CF_whiteSpace,
-   subfieldcodeDataType._CF_pattern)
+subfieldcodeDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
+subfieldcodeDataType._InitializeFacetMap(subfieldcodeDataType._CF_pattern,
+   subfieldcodeDataType._CF_whiteSpace)
 Namespace.addCategoryObject('typeBinding', 'subfieldcodeDataType', subfieldcodeDataType)
 
 # Atomic simple type: {http://www.loc.gov/MARC21/slim}idDataType

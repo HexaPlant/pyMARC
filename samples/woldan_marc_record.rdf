@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://permalink.obvsg.at/AC08566613">
+    <bf:authorizedAccessPoint>Artaria und Compagnie</bf:authorizedAccessPoint>
+    <bf:creator rdf:resource="http://permalink.obvsg.at/AC08566613organization4"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">artariaundcompagniework</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Annotation rdf:about="http://permalink.obvsg.at/AC08566613annotation6">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC08566613.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC08566613"/>
+  </bf:Annotation>
+  <bf:Organization rdf:about="http://permalink.obvsg.at/AC08566613organization4">
+    <bf:label>Artaria und Compagnie</bf:label>
+    <bf:authorizedAccessPoint>Artaria und Compagnie</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Artaria und Compagnie</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+</rdf:RDF>
