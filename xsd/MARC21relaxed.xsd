@@ -82,7 +82,7 @@ Relax leader and controlfield requirement for  Aleph ASEQ validation
   <xsd:simpleType name="leaderDataType" id="leader.st">
     <xsd:restriction base="xsd:string">
       <xsd:whiteSpace value="preserve"/>
-      <xsd:pattern value="[\d ]{5}[\dA-Za-z\. ]{19}"/>
+      <xsd:pattern value="[\dA-Za-z\.| ]{24}"/>
     </xsd:restriction>
   </xsd:simpleType>
   <xsd:complexType name="controlFieldType" id="controlfield.ct">
@@ -128,7 +128,7 @@ Relax leader and controlfield requirement for  Aleph ASEQ validation
   <xsd:simpleType name="indicatorDataType" id="ind.st">
     <xsd:restriction base="xsd:string">
       <xsd:whiteSpace value="preserve"/>
-      <xsd:pattern value="[\da-z ]{1}"/>
+      <xsd:pattern value="[\da-zA-Z_ ]{1}"/>
     </xsd:restriction>
   </xsd:simpleType>
   <xsd:complexType name="subfieldatafieldType" id="subfield.ct">

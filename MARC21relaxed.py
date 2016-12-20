@@ -1,7 +1,7 @@
 # ./MARC21relaxed.py
 # -*- coding: utf-8 -*-
 # PyXB bindings for NM:5e592dacc0cf5bbbe827fb7d980f3324ca92c3dc
-# Generated 2016-12-20 19:45:12.546663 by PyXB version 1.2.4 using Python 2.7.12.final.0
+# Generated 2016-12-21 00:24:34.092428 by PyXB version 1.2.4 using Python 2.7.12.final.0
 # Namespace http://www.loc.gov/MARC21/slim
 
 from __future__ import unicode_literals
@@ -15,7 +15,7 @@ import sys
 import pyxb.utils.six as _six
 
 # Unique identifier for bindings created at the same time
-_GenerationUID = pyxb.utils.utility.UniqueIdentifier('urn:uuid:7096dada-c6e4-11e6-8218-00e1020040ea')
+_GenerationUID = pyxb.utils.utility.UniqueIdentifier('urn:uuid:773ffeee-c70b-11e6-9daf-00e1020040ea')
 
 # Version of PyXB used to generate the bindings
 _PyXBVersion = '1.2.4'
@@ -99,7 +99,7 @@ class leaderDataType (pyxb.binding.datatypes.string):
     _XSDLocation = pyxb.utils.utility.Location('/data/code/pyMARC/xsd/MARC21relaxed.xsd', 82, 2)
     _Documentation = None
 leaderDataType._CF_pattern = pyxb.binding.facets.CF_pattern()
-leaderDataType._CF_pattern.addPattern(pattern='[\\d ]{5}[\\dA-Za-z\\. ]{19}')
+leaderDataType._CF_pattern.addPattern(pattern='[\\dA-Za-z\\.| ]{24}')
 leaderDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
 leaderDataType._InitializeFacetMap(leaderDataType._CF_pattern,
    leaderDataType._CF_whiteSpace)
@@ -156,7 +156,7 @@ class indicatorDataType (pyxb.binding.datatypes.string):
     _XSDLocation = pyxb.utils.utility.Location('/data/code/pyMARC/xsd/MARC21relaxed.xsd', 128, 2)
     _Documentation = None
 indicatorDataType._CF_pattern = pyxb.binding.facets.CF_pattern()
-indicatorDataType._CF_pattern.addPattern(pattern='[\\da-z ]{1}')
+indicatorDataType._CF_pattern.addPattern(pattern='[\\da-zA-Z_ ]{1}')
 indicatorDataType._CF_whiteSpace = pyxb.binding.facets.CF_whiteSpace(value=pyxb.binding.facets._WhiteSpace_enum.preserve)
 indicatorDataType._InitializeFacetMap(indicatorDataType._CF_pattern,
    indicatorDataType._CF_whiteSpace)
