@@ -1,0 +1,117 @@
+@prefix ns1: <http://bibfra.me/vocab/marc/> .
+@prefix ns2: <http://bibfra.me/vocab/marcext/> .
+@prefix ns3: <http://bibfra.me/vocab/relation/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vb: <http://bibfra.me/vocab/lite/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<Snrdyh4gqns> a vb:Instance ;
+    vb:controlCode "AC08566613" ;
+    vb:instantiates <iUXsfWhCk1c> ;
+    vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan koloriert" ;
+    vb:title "Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire" ;
+    ns1:cartographicMathematicalDataProjectionStatement "2700000" ;
+    ns1:cartographicMathematicalDataScaleStatement "a",
+        "circa 1:2 700 000" ;
+    ns1:publication <zDobDsVsKK8> .
+
+<N6SE303Gxj0> a vb:Place ;
+    vb:name "Vienne" ;
+    ns2:sf-a "Vienne" ;
+    ns2:sf-b "chez Artaria & Compagnie" ;
+    ns2:sf-c "1837" .
+
+<au8q9q89zEg> a vb:Organization ;
+    vb:authorityLink <http://d-nb.info/gnd/2030321-X> ;
+    ns2:sf-0 "(DE-588)2030321-X" .
+
+<iUXsfWhCk1c> a vb:Work ;
+    vb:contributor <IUm-tYT-1lk> ;
+    vb:creator <au8q9q89zEg> ;
+    vb:genre <rVR-eXk2jvQ> ;
+    vb:language "fre" ;
+    vb:subject <jQcpHFga_Ms>,
+        <tlzRbPvUmgk> ;
+    vb:title "Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire" ;
+    ns1:nalCallNumber "BAY",
+        "OAW" ;
+    ns1:nlmItemNumber "cri" ;
+    ns2:tag-000 "01037nM2.01200024      h",
+        "MH" ;
+    ns2:tag-003 "20160825" ;
+    ns2:tag-025 "260211009" ;
+    ns2:tag-026 "108657329" ;
+    ns2:tag-030 "a|1drzzb|||27" ;
+    ns2:tag-044-XX-c "XA-AAAT" ;
+    ns2:tag-050 "||a|||||||a|||" ;
+    ns2:tag-051 "m|||||||" ;
+    ns2:tag-061-XX-b "n" ;
+    ns2:tag-062-XX-b "nb" ;
+    ns2:tag-064-aX-9 "(DE-588)4611904-8" ;
+    ns2:tag-076-sX-a "54" ;
+    ns2:tag-200-XX-4 "ctg" ;
+    ns2:tag-200-XX-h "Wien" ;
+    ns2:tag-200-XX-k "Artaria und Compagnie" ;
+    ns2:tag-335-XX-a "ou guide de voyage a Constantinople sur le Danube avec indication de tout ce qui a rapport à la navigation des Pyroscaphes sur cette route" ;
+    ns2:tag-359-XX-a "chez Artaria & Compagnie ; C. Stein sc." ;
+    ns2:tag-425-aX-a "1837" ;
+    ns2:tag-433-cX-a "1 Karte" ;
+    ns2:tag-435-XX-a "48 x 69 cm" ;
+    ns2:tag-439-XX-d "Lithographie" ;
+    ns2:tag-677-XX-9 "(DE-588)104333677" ;
+    ns2:tag-677-XX-p "Stein, Carl" ;
+    ns2:tag-902-XX-9 "(DE-588)4026309-5" ;
+    ns2:tag-902-XX-f "Altkarte" ;
+    ns2:tag-902-XX-g "Donau" ;
+    ns2:tag-902-XX-s "Hydrologie" ;
+    ns2:tag-903-XX-a "231" ;
+    ns2:tag-907-XX-9 "(DE-588)4233933-9" ;
+    ns2:tag-907-XX-f "Altkarte" ;
+    ns2:tag-907-XX-g "Südosteuropa" ;
+    ns2:tag-907-XX-s "Reiseweg" ;
+    ns2:tag-908-XX-a "213" ;
+    ns2:tag-912-XX-9 "(DE-588)4233933-9" ;
+    ns2:tag-912-XX-f "Altkarte" ;
+    ns2:tag-912-XX-g "Donau-Gebiet" ;
+    ns2:tag-912-XX-s "Reiseweg" ;
+    ns2:tag-913-XX-a "213" ;
+    ns2:tag-SID-XX-a "Z39" ;
+    ns2:tag-SID-XX-b "BVBKAT" ;
+    ns3:egr <IUm-tYT-1lk> .
+
+<jQcpHFga_Ms> a vb:Concept ;
+    ns1:generalSubdivision "ONB-DTL" ;
+    ns2:sf-3 "Digitales Objekt" ;
+    ns2:sf-m "V:AT-OBV;B:AT-OeNB" ;
+    ns2:sf-q "application/html" ;
+    ns2:sf-u "http://data.onb.ac.at/dtl/3756104" ;
+    ns2:sf-x "ONB-DTL" .
+
+<sq69ceo20cM> a vb:Agent ;
+    vb:name "chez Artaria & Compagnie" ;
+    ns2:sf-a "Vienne" ;
+    ns2:sf-b "chez Artaria & Compagnie" ;
+    ns2:sf-c "1837" .
+
+<tlzRbPvUmgk> a vb:Concept ;
+    vb:focus <rVR-eXk2jvQ> ;
+    vb:name "Altkarte" ;
+    ns2:sf-a "Altkarte" .
+
+<zDobDsVsKK8> a vb:ProviderEvent ;
+    vb:providerAgent <sq69ceo20cM> ;
+    vb:providerDate "1837" ;
+    vb:providerPlace <N6SE303Gxj0> ;
+    ns2:sf-a "Vienne" ;
+    ns2:sf-b "chez Artaria & Compagnie" ;
+    ns2:sf-c "1837" .
+
+<IUm-tYT-1lk> a vb:Person ;
+    ns2:sf-4 "egr" .
+
+<rVR-eXk2jvQ> a vb:Form ;
+    vb:name "Altkarte" ;
+    ns2:sf-a "Altkarte" .
+
