@@ -1,6 +1,6 @@
 @prefix ns1: <http://bibfra.me/vocab/marcext/> .
-@prefix ns2: <http://bibfra.me/vocab/marc/> .
-@prefix ns3: <http://bibfra.me/vocab/relation/> .
+@prefix ns2: <http://bibfra.me/vocab/relation/> .
+@prefix ns3: <http://bibfra.me/vocab/marc/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix vb: <http://bibfra.me/vocab/lite/> .
@@ -13,10 +13,10 @@
     vb:instantiates <xz9PToJf7Xk> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nordwestirland]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "11" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "11" .
 
 <0-Uc9qY7nlE> a vb:Instance ;
     vb:controlCode "AC03752655" ;
@@ -24,9 +24,9 @@
     vb:instantiates <DkwYW74S1_c> ;
     vb:note "Details zu Maßstabsangaben: Maßstab in graphischer Form: Wiener Klafter" ;
     vb:title "Umgebungen von Wien" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:43 200" ;
-    ns2:manufacture <hOPuehczhkw> ;
-    ns2:publication <CMnMAFJIybw> .
+    ns3:cartographicMathematicalDataScaleStatement "1:43 200" ;
+    ns3:manufacture <hOPuehczhkw> ;
+    ns3:publication <CMnMAFJIybw> .
 
 <0TbDE1ba4mo> a vb:Instance ;
     vb:controlCode "AC12376372" ;
@@ -34,8 +34,8 @@
     vb:instantiates <IlmajfWyJE4> ;
     vb:note "Sonstige Details: Chronogramm am unteren Ende der Titelkartusche: \"Gott steVre DeM bLVtgIrIgen Türken AntIChrIstent\" (1664)" ;
     vb:title "Neue Land-Tafel von Hungarn und dessen incorporirten Königreichen und Provinzen" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000" ;
-    ns2:publication <lvRemUJOUDA> .
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000" ;
+    ns3:publication <lvRemUJOUDA> .
 
 <0xbpI-hOHAQ> a vb:Instance ;
     vb:controlCode "AC04480096" ;
@@ -43,10 +43,10 @@
     vb:instantiates <6as8iV9it1A> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan flächen- und grenzkoloriert" ;
     vb:title "Charte den Oesterreichischen Kreis nach seinen Haupt- und Unter-Abtheilungen vorstellend" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000",
         "a" ;
-    ns2:publication <rYUwzFBNkBw> .
+    ns3:publication <rYUwzFBNkBw> .
 
 <1p1EuTYUPFE> a vb:Instance ;
     vb:controlCode "AC03758322" ;
@@ -54,10 +54,10 @@
     vb:instantiates <ey2JxD3bqNY> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan koloriert, Blatt auf Kartenrand beschnitten ohne Blattnummer. - geschnitten und auf Leinen aufgezogen" ;
     vb:title "<<Der>> Nœrdliche Theil Von Untersteyermark Oder Der Grætzer Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <cvETd_1SiPM> .
+    ns3:publication <cvETd_1SiPM> .
 
 <3Myg1-LRIc8> a vb:Instance ;
     vb:controlCode "AC10732316" ;
@@ -65,10 +65,10 @@
     vb:instantiates <No4UowVPBuA> ;
     vb:note "Projektion: Stereographische Projektion mit Projektionszentrum Berlin" ;
     vb:title "<<Die>> Obere oder Nordliche Halbkugel der Erde" ;
-    ns2:cartographicMathematicalDataProjectionStatement "54000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a",
+    ns3:cartographicMathematicalDataProjectionStatement "54000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a",
         "circa 1: 54 000 000" ;
-    ns2:publication <nhMgBa0P4FY> .
+    ns3:publication <nhMgBa0P4FY> .
 
 <4c737nVVIlk> a vb:Instance ;
     vb:controlCode "AC13304702" ;
@@ -76,10 +76,10 @@
     vb:instantiates <sYHe7_EHE48> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert und mit Prägestempel" ;
     vb:title "<<A>> General Chart Exhibiting the Discoveries made by Capt.n James Cook in this and his two preciding Voyages" ;
-    ns2:cartographicMathematicalDataProjectionStatement "46800000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:46 800 000 am Äquator",
+    ns3:cartographicMathematicalDataProjectionStatement "46800000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:46 800 000 am Äquator",
         "a" ;
-    ns2:publication <Es9J-kbmsGM> .
+    ns3:publication <Es9J-kbmsGM> .
 
 <4fBt7tOWGK0> a vb:Instance ;
     vb:controlCode "AC13304501" ;
@@ -87,11 +87,11 @@
     vb:instantiates <kwBDuRN8QEg> ;
     vb:note "Sonstige Details: mit Prägestempel und Wasserzeichen (Wappen, Krone, Lilie, 1812) ; Exemplar ÖAW-Sammlung Woldan grenzkoloriert und mit handschriftlichen Ergänzungen" ;
     vb:title "Merkatorskaja karta časti južnago okeana okolo mysa Gorna" ;
-    ns2:cartographicMathematicalDataProjectionStatement "7000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:7 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "7000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:7 000 000",
         "a" ;
-    ns2:publication <UFdIBLLEV5g> ;
-    ns2:typeOfComputerFile "Cyrl",
+    ns3:publication <UFdIBLLEV5g> ;
+    ns3:typeOfComputerFile "Cyrl",
         "In kyrillischer Schrift" .
 
 <4fKZah-nQug> a vb:Instance ;
@@ -100,10 +100,10 @@
     vb:instantiates <0--PzRLHOn4> ;
     vb:note "Titel fingiert" ;
     vb:title "[Süd-Britische Inseln und Nordwest Europäisches Festland]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "12" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "12" .
 
 <50lvPhDpRnA> a vb:Instance ;
     vb:controlCode "AC13375594" ;
@@ -111,19 +111,19 @@
     vb:instantiates <QwqJbnxLuRQ> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan flächen- und grenzkoloriert" ;
     vb:title "Tabula Geographica Circulorum Austriaci et Bavarici Imperii Romano-Germanici" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1700000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1 700 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1700000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1 700 000",
         "a" ;
-    ns2:publication <IYOKC6HiIE0> .
+    ns3:publication <IYOKC6HiIE0> .
 
 <5M_5DB_JFxk> a vb:Instance ;
     vb:controlCode "AC09369655" ;
     vb:extent "ungezählte Blätter" ;
     vb:instantiates <0q8kbflLp0E> ;
     vb:title "<<Johann David Koehlers Historiarum & Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff>> Bequemer Schul- und Reisen-Atlas" ;
-    ns2:cartographicMathematicalDataScaleStatement "verschiedene Maßstäbe" ;
-    ns2:manufacture <eCQHhwdFHHM> ;
-    ns2:publicationFrequency "Bequemer Schul- und Reisen-Atlas" .
+    ns3:cartographicMathematicalDataScaleStatement "verschiedene Maßstäbe" ;
+    ns3:manufacture <eCQHhwdFHHM> ;
+    ns3:publicationFrequency "Bequemer Schul- und Reisen-Atlas" .
 
 <5rjz0xjhSHc> a vb:Instance ;
     vb:controlCode "AC03758369" ;
@@ -131,20 +131,20 @@
     vb:instantiates <xerBQIsh2k8> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert auf Kartenrand beschnitten ohne Blattnummer. - geschnitten und auf Leinen aufgezogen" ;
     vb:title "<<Der>> Südliche Theil Von Untersteyermark Oder Der Cillier Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <13HD9olumVY> .
+    ns3:publication <13HD9olumVY> .
 
 <63ehajMUOF4> a vb:Instance ;
     vb:controlCode "AC04275411" ;
     vb:extent "1 Karte" ;
     vb:instantiates <JyZInLqM4Q4> ;
     vb:title "Umgebung von Neuberg" ;
-    ns2:cartographicMathematicalDataProjectionStatement "43200" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:manufacture <5tKIrUf8MAw> ;
-    ns2:publication <CMnMAFJIybw> .
+    ns3:cartographicMathematicalDataProjectionStatement "43200" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:manufacture <5tKIrUf8MAw> ;
+    ns3:publication <CMnMAFJIybw> .
 
 <6MdonKdYUkk> a vb:Instance ;
     vb:controlCode "AC08769745" ;
@@ -152,27 +152,27 @@
     vb:instantiates <UxnDTRj47Fo> ;
     vb:note "Anmerkungen zur Entstehungsangabe: Nachdruck der niederländischen Originalkarte von 1598 aus dem Reisebericht Lodewycksz'" ;
     vb:title "Descriptio Hydrogaphica accomodata ad Battavorum Navigatione in Javam insulam Indiae Orientalis, saetam ad quam postridie Calendas Aprilis ann'1595 ex Hollandia solverunt et ex qua domum redierunt Idus Augusti anno 1597 Horum extus reditusq' via his notis demonstratur De hac navigatione extat descriptio lectu perquam admiranda" ;
-    ns2:cartographicMathematicalDataProjectionStatement "30000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1: 30 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "30000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1: 30 000 000",
         "a" ;
-    ns2:publication <SEiuFZ772Yo> .
+    ns3:publication <SEiuFZ772Yo> .
 
 <6_eZW0P9--Q> a vb:Instance ;
     vb:controlCode "AC04246138" ;
     vb:extent "1 Karte" ;
     vb:instantiates <8UzN5SnjigE> ;
     vb:title "Umgebung von Baaden" ;
-    ns2:cartographicMathematicalDataProjectionStatement "43200" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:43 200",
+    ns3:cartographicMathematicalDataProjectionStatement "43200" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:43 200",
         "a" ;
-    ns2:manufacture <hOPuehczhkw> ;
-    ns2:publication <CMnMAFJIybw> .
+    ns3:manufacture <hOPuehczhkw> ;
+    ns3:publication <CMnMAFJIybw> .
 
 <6tUqJtn71j4> a vb:Instance ;
     vb:controlCode "AC10732352" ;
     vb:instantiates <2czcsoEVVU0> ;
     vb:title "Beschreibung und Gebrauch einer auf den Horizont von Berlin entworfenen neuen Weltcharte in zween Hemisphären" ;
-    ns2:publication <WC59h9A-IXA> .
+    ns3:publication <WC59h9A-IXA> .
 
 <7euiA96ZU8E> a vb:Instance ;
     vb:controlCode "AC04564066" ;
@@ -180,10 +180,10 @@
     vb:instantiates <EPSg8cHGNwM> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Leinen aufgezogen" ;
     vb:title "Verbindung der Waag mit dem Poprad" ;
-    ns2:cartographicMathematicalDataProjectionStatement "420000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:420 000",
+    ns3:cartographicMathematicalDataProjectionStatement "420000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:420 000",
         "a" ;
-    ns2:publication <GMnQ6FL1gzk> .
+    ns3:publication <GMnQ6FL1gzk> .
 
 <7qBcHqu-Yxc> a vb:Instance ;
     vb:controlCode "AC12694716" ;
@@ -191,10 +191,10 @@
     vb:instantiates <Xk_ljQBxV1k> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan flächenkoloriert" ;
     vb:title "Recens Edita totius Novi Belgii, in America Septentrionali siti" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2300000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:2 300 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2300000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:2 300 000",
         "a" ;
-    ns2:publication <RfRsXCoLKGg> .
+    ns3:publication <RfRsXCoLKGg> .
 
 <8SHYTqKQrQk> a vb:Instance ;
     vb:controlCode "AC12242056" ;
@@ -202,10 +202,10 @@
     vb:instantiates <oGEKSMarab4> ;
     vb:note "Titel fingiert" ;
     vb:title "[Weißrussland]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "14" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "14" .
 
 <9YqjkvR8Sxs> a vb:Instance ;
     vb:controlCode "AC04042189" ;
@@ -213,10 +213,10 @@
     vb:instantiates <XjltvT7cp5o> ;
     vb:note "Ergänzender Inhalt: Mit Angabe der Abfahrtszeiten der Postkutschen, Einwohnerzahlen und Entfernungen von Wien" ;
     vb:title "Influenzkarte der Eilpost-Diligenze- und Packwagen-Course in dem Kaiserthume Österreich und in den angränzenden Ländern bis Rom, Genua, Paris, Brüssel, Hamburg, Berlin, Petersburg, Odessa, Constatinopel, Corfu" ;
-    ns2:cartographicMathematicalDataScaleStatement "Nicht maßstabsgetreu",
+    ns3:cartographicMathematicalDataScaleStatement "Nicht maßstabsgetreu",
         "a" ;
-    ns2:edition "Dritte Auflage" ;
-    ns2:publication <j1OZ5Kcfxzc> .
+    ns3:edition "Dritte Auflage" ;
+    ns3:publication <j1OZ5Kcfxzc> .
 
 <A380tnNJGEM> a vb:Instance ;
     vb:controlCode "AC12241850" ;
@@ -224,10 +224,10 @@
     vb:instantiates <Wit7o2rwjPU> ;
     vb:note "Titel fingiert" ;
     vb:title "[Syrisch-Arabische Wüste]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "25" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "25" .
 
 <AEKBFBx8bSA> a vb:Instance ;
     vb:controlCode "AC12242047" ;
@@ -235,20 +235,20 @@
     vb:instantiates <WFQEnFRqF6E> ;
     vb:note "Titel fingiert" ;
     vb:title "[Russland; Kasachstan; Kaspisches Meer]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "15" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "15" .
 
 <AMS41K2x8bI> a vb:Instance ;
     vb:controlCode "AC03753347" ;
     vb:extent "1 Karte" ;
     vb:instantiates <0V-jxK35bV0> ;
     vb:title "Umgebung von Krieglach" ;
-    ns2:cartographicMathematicalDataProjectionStatement "43200" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:manufacture <hOPuehczhkw> ;
-    ns2:publication <CMnMAFJIybw> .
+    ns3:cartographicMathematicalDataProjectionStatement "43200" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:manufacture <hOPuehczhkw> ;
+    ns3:publication <CMnMAFJIybw> .
 
 <BnJveq-gXnw> a vb:Instance ;
     vb:controlCode "AC13301550" ;
@@ -256,10 +256,10 @@
     vb:instantiates <o57MOEXCbro> ;
     vb:note "Erscheinungshinweise: Einzelblatt vermutlich aus: Giulio Ballino, Civitatum Aliquot Insigniorum, et locorum, magis munitorum exacta delineatio: Cum omnium quae ad eorum historiam pertinent, breui enarratione. Disegni di alcune piu illustri citta, et fortezze del mondo, con una breue historia delle cose, a loro pertinenti. 1568." ;
     vb:title "Vienna" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:6 500",
+    ns3:cartographicMathematicalDataProjectionStatement "1000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:6 500",
         "a" ;
-    ns2:publication <EZI9eIZU8xM> .
+    ns3:publication <EZI9eIZU8xM> .
 
 <COsNlnuXasE> a vb:Instance ;
     vb:controlCode "AC04564077" ;
@@ -267,10 +267,10 @@
     vb:instantiates <K2Kfxbbb3_M> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Leinen aufgezogen" ;
     vb:title "Verbindung des Poprad und der Dunajetz mit den beiden Wisloka" ;
-    ns2:cartographicMathematicalDataProjectionStatement "350000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:350 000",
+    ns3:cartographicMathematicalDataProjectionStatement "350000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:350 000",
         "a" ;
-    ns2:publication <GMnQ6FL1gzk> .
+    ns3:publication <GMnQ6FL1gzk> .
 
 <Cd9accb0XQI> a vb:Instance ;
     vb:controlCode "AC03757771" ;
@@ -278,11 +278,11 @@
     vb:instantiates <ljjZqWKnWJs> ;
     vb:note "Nullmeridian: Ferro" ;
     vb:title "Tyrolis Sub Felici Regimine Mariæ Theresiæ Rom. Imper. Aug." ;
-    ns2:cartographicMathematicalDataProjectionStatement "104000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:104 000",
+    ns3:cartographicMathematicalDataProjectionStatement "104000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:104 000",
         "a" ;
-    ns2:contentsNote "Abweichender Titel auf Übersichtsblatt" ;
-    ns2:manufacture <gNnY6oZdwVc> .
+    ns3:contentsNote "Abweichender Titel auf Übersichtsblatt" ;
+    ns3:manufacture <gNnY6oZdwVc> .
 
 <DMMFm-tKzRQ> a vb:Instance ;
     vb:controlCode "AC04568655" ;
@@ -290,10 +290,10 @@
     vb:instantiates <b0gaqJWFtFY> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan in12 Teile zerschnitten (55 x 40 cm)" ;
     vb:title "<<Die>> Fr. Grafschaft Tirol" ;
-    ns2:cartographicMathematicalDataProjectionStatement "160000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:160 000",
+    ns3:cartographicMathematicalDataProjectionStatement "160000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:160 000",
         "a" ;
-    ns2:publication <zwk6n5hPq0g> .
+    ns3:publication <zwk6n5hPq0g> .
 
 <EQCQAAXpgl4> a vb:Instance ;
     vb:controlCode "AC13302678" ;
@@ -301,10 +301,10 @@
     vb:instantiates <BkDWSb_suJI> ;
     vb:note "Details zu illustrierendem Inhalt: Titelkartusche" ;
     vb:title "Al Mag.co S.or Francesco Scaridino Non mi parea cosa convenie[n]te ch'io Cassiasi andar fuora l'Europa, con la giuta del'africa, et parte del'asia senza ch'io le segnasoi nel Fronte nome honorato, si onde essa nun fusse isprezzata ó, almeno risbeltaia la onae nom sorio posulto in aliso compiaccre as pave di V. S. che per I gra meróli suoi pelvano esser scudo contro el biajmo di guessi che molto sano, ó al giudicio di guessi che frappe senerri nel censurar le altrui cose sono la riccua dun gue il core affetionato alla natia bonta di V. S. alla qualle hunulmente m’incefimo di padova 1570 D[ome]n[i]co Zenoni. / Oratio Beteli" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:45 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:45 000 000",
         "a" ;
-    ns2:publication <wuBV5WwHvx0> .
+    ns3:publication <wuBV5WwHvx0> .
 
 <F_tZEZNeJUg> a vb:Instance ;
     vb:controlCode "AC12242007" ;
@@ -312,19 +312,19 @@
     vb:instantiates <Tl0FnQqCGWU> ;
     vb:note "Titel fingiert" ;
     vb:title "[Algerien, Tunesien]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "22" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "22" .
 
 <G1FxCezB_Z0> a vb:Instance ;
     vb:controlCode "AC13303831" ;
     vb:extent "1 Karte" ;
     vb:instantiates <ZyVXVpaKncM> ;
-    ns2:cartographicMathematicalDataProjectionStatement "2400000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <-1R9CytGm2o> ;
-    ns2:titleNumber "[Première Feuille]" .
+    ns3:cartographicMathematicalDataProjectionStatement "2400000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <-1R9CytGm2o> ;
+    ns3:titleNumber "[Première Feuille]" .
 
 <G9evil2o_cU> a vb:Instance ;
     vb:controlCode "AC03745321" ;
@@ -332,11 +332,11 @@
     vb:instantiates <MbD82xtIy-0> ;
     vb:note "Nullmeridian: Paris" ;
     vb:title "General-Karte von Europa in 25 Blättern" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:2 592 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:2 592 000",
         "a" ;
-    ns2:edition "Neueste Auflage mit besonderer Berücksichtigung der Eisenbahnen" ;
-    ns2:publication <eSutP5vmfPI> .
+    ns3:edition "Neueste Auflage mit besonderer Berücksichtigung der Eisenbahnen" ;
+    ns3:publication <eSutP5vmfPI> .
 
 <GveBwTXgHOA> a vb:Instance ;
     vb:controlCode "AC12242013" ;
@@ -344,10 +344,10 @@
     vb:instantiates <7S9ZJDclTWU> ;
     vb:note "Titel fingiert" ;
     vb:title "[Marokko]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "21" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "21" .
 
 <H6zGUqqt26E> a vb:Instance ;
     vb:controlCode "AC03758380" ;
@@ -355,10 +355,10 @@
     vb:instantiates <kxvtHHiSawc> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Kartenrand beschnitten ohne Blattnummer" ;
     vb:title "<<Der>> Œstliche Theil Von Obersteyermark Oder Der Brucker Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <InDJ3HbWWQ0> .
+    ns3:publication <InDJ3HbWWQ0> .
 
 <HXBXeLr-OIY> a vb:Instance ;
     vb:controlCode "AC04258574" ;
@@ -366,11 +366,11 @@
     vb:instantiates <tkB8YoSlzAA> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan gefaltet in Leinenumschlag, Nebenkarte gesondert auf den linken Deckel geklebt" ;
     vb:title "Reise- und Gebirgs-Karte vom Lande Salzburg mit Berchtesgaden und dem Salzkammergut" ;
-    ns2:cartographicMathematicalDataProjectionStatement "500000" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "500000" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:500 000",
         "a" ;
-    ns2:manufacture <4MyCtDqvKWc> ;
-    ns2:publication <UJeDWO6UwpE> .
+    ns3:manufacture <4MyCtDqvKWc> ;
+    ns3:publication <UJeDWO6UwpE> .
 
 <HgBywij8wFk> a vb:Instance ;
     vb:controlCode "AC12218831" ;
@@ -378,10 +378,10 @@
     vb:instantiates <vkgG1kF6pCw> ;
     vb:note "Druckprivileg: \"avec privilége du Roi\"" ;
     vb:title "Nouveau Plan de Paris et de ses Faubourgs" ;
-    ns2:cartographicMathematicalDataProjectionStatement "20000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:20 000",
+    ns3:cartographicMathematicalDataProjectionStatement "20000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:20 000",
         "a" ;
-    ns2:publication <d8sDcO8aBeY> .
+    ns3:publication <d8sDcO8aBeY> .
 
 <HwXpkSj0UXo> a vb:Instance ;
     vb:controlCode "AC03761304" ;
@@ -389,10 +389,10 @@
     vb:instantiates <_TXK2x8VNzI> ;
     vb:note "Sonstige Details: Platte 52,5 x 61 cm" ;
     vb:title "Unterkrain oder der Neustædtler Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <gSgcf157hLU> .
+    ns3:publication <gSgcf157hLU> .
 
 <I0WlHr6tuLg> a vb:Instance ;
     vb:controlCode "AC12240051" ;
@@ -400,20 +400,20 @@
     vb:instantiates <fk8ccGe6xLw> ;
     vb:note "Titel fingiert" ;
     vb:title "[Island - Nordpolarmeer]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "2" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "2" .
 
 <IiFatiepX6U> a vb:Instance ;
     vb:controlCode "AC04246263" ;
     vb:extent "1 Karte" ;
     vb:instantiates <cLlMIF-hj0M> ;
     vb:title "Umgebung vom Berge Wechsel" ;
-    ns2:cartographicMathematicalDataProjectionStatement "43200" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:manufacture <hOPuehczhkw> ;
-    ns2:publication <CMnMAFJIybw> .
+    ns3:cartographicMathematicalDataProjectionStatement "43200" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:manufacture <hOPuehczhkw> ;
+    ns3:publication <CMnMAFJIybw> .
 
 <IoxaMySBmYY> a vb:Instance ;
     vb:controlCode "AC04024936" ;
@@ -421,10 +421,10 @@
     vb:instantiates <SefdQGF--gw> ;
     vb:note "Anmerkungen zur Entstehungsangabe: In Verantwortlichkeitsangabe findet sich der Hinweis auf den 1725 erlangten Doktortitel (M.D.) von J. Chr, Homann" ;
     vb:title "Tabula Geographica Europae Austriacae Generalis sive Regionum Terrarumque Omnium ac Singularum Augustissimae Domui Austriacae Hereditariarum" ;
-    ns2:cartographicMathematicalDataProjectionStatement "4600000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:4 600 000",
+    ns3:cartographicMathematicalDataProjectionStatement "4600000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:4 600 000",
         "a" ;
-    ns2:publication <tgKw-y16D1Q> .
+    ns3:publication <tgKw-y16D1Q> .
 
 <J0Sc1KRmly0> a vb:Instance ;
     vb:controlCode "AC12247955" ;
@@ -432,10 +432,10 @@
     vb:instantiates <CsI0ma14OLA> ;
     vb:note "Projektion: sterographisch" ;
     vb:title "Lusatia Superior" ;
-    ns2:cartographicMathematicalDataProjectionStatement "330000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:330 000",
+    ns3:cartographicMathematicalDataProjectionStatement "330000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:330 000",
         "a" ;
-    ns2:publication <PNQe1S7rkog> .
+    ns3:publication <PNQe1S7rkog> .
 
 <KgABD-D3CHw> a vb:Instance ;
     vb:controlCode "AC12240148" ;
@@ -443,10 +443,10 @@
     vb:instantiates <4ieyaXecj10> ;
     vb:note "Titel fingiert" ;
     vb:title "[Süd-Skandinavien]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "8" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "8" .
 
 <LMW7NU7BsB4> a vb:Instance ;
     vb:controlCode "AC12242065" ;
@@ -454,10 +454,10 @@
     vb:instantiates <dPdbnOCsAPI> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nordöstliches Mitteleuropa]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "13" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "13" .
 
 <LTfPBD5qXLM> a vb:Instance ;
     vb:controlCode "AC03761345" ;
@@ -465,10 +465,10 @@
     vb:instantiates <xf7nM4vCJ7I> ;
     vb:note "Sonstige Details: Platte 52,5 x 60,5 cm" ;
     vb:title "Innerkrain Oder Der Adelsberger Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <UZuWAMbSrJM> .
+    ns3:publication <UZuWAMbSrJM> .
 
 <LVa7loiHjjg> a vb:Instance ;
     vb:controlCode "AC12248033" ;
@@ -476,17 +476,17 @@
     vb:instantiates <wSTQMqC9Z4I> ;
     vb:note "Projektion: sterographisch" ;
     vb:title "Novissima Tabula ergionis Ludovicianae Gallice dictae la Louisiane" ;
-    ns2:cartographicMathematicalDataProjectionStatement "7850000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:6 500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "7850000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:6 500 000",
         "a" ;
-    ns2:publication <UvveExEZjVY> .
+    ns3:publication <UvveExEZjVY> .
 
 <MN2BxH_gWhs> a vb:Instance ;
     vb:controlCode "AC09401696" ;
     vb:extent "6 ungezählte Blätter" ;
     vb:instantiates <Czn79EpXz6g> ;
     vb:title "Accurata Globi Terrestris" ;
-    ns2:publication <zh3d_RoWHaQ> .
+    ns3:publication <zh3d_RoWHaQ> .
 
 <MrXPas2PnTM> a vb:Instance ;
     vb:controlCode "AC12240105" ;
@@ -494,10 +494,10 @@
     vb:instantiates <jDezLBDptks> ;
     vb:note "Titel fingiert" ;
     vb:title "[Westsibirien]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "5" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "5" .
 
 <NEhyK_ptHRs> a vb:Instance ;
     vb:controlCode "AC03907309" ;
@@ -505,11 +505,11 @@
     vb:instantiates <hr1Cjc23ijs> ;
     vb:note "Widmung: Mit Widmungstext an \"... Otto Honorius Sac. Ro, Imp. Comes de Abensperg, Traun, Wolkenburg ...\"" ;
     vb:title "Archiducatus Austriae Inferioris Geographica et Noviter Emendata Accuratissima Descriptio" ;
-    ns2:cartographicMathematicalDataProjectionStatement "144000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:144 000",
+    ns3:cartographicMathematicalDataProjectionStatement "144000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:144 000",
         "a" ;
-    ns2:edition "[2. Ausgabe]" ;
-    ns2:publication <KPH0RcaKM2o> .
+    ns3:edition "[2. Ausgabe]" ;
+    ns3:publication <KPH0RcaKM2o> .
 
 <NZnrEPeWWq8> a vb:Instance ;
     vb:controlCode "AC12408343" ;
@@ -517,10 +517,10 @@
     vb:instantiates <FeR4qc2a1I0> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert" ;
     vb:title "Middel-landtsche Zee" ;
-    ns2:cartographicMathematicalDataProjectionStatement "5000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:5 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "5000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:5 000 000",
         "a" ;
-    ns2:publication <r6cFgF9GeWk> .
+    ns3:publication <r6cFgF9GeWk> .
 
 <NaJKU_9TVDc> a vb:Instance ;
     vb:controlCode "AC05701570" ;
@@ -528,10 +528,10 @@
     vb:instantiates <kqaiVadinvQ> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert und mit handschriftlichen Eintragungen" ;
     vb:title "Uibersichts-Karte der neu organisirten Gerichts und Verwaltungs Bezirke der Kronländer Erzherzogthum Österreich ob der Enns und Herzogthum Salzburg" ;
-    ns2:cartographicMathematicalDataProjectionStatement "288000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:288 000",
+    ns3:cartographicMathematicalDataProjectionStatement "288000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:288 000",
         "a" ;
-    ns2:publication <hZq3GWB_bvE> .
+    ns3:publication <hZq3GWB_bvE> .
 
 <OQL6W908hcc> a vb:Instance ;
     vb:controlCode "AC11594272" ;
@@ -539,11 +539,11 @@
     vb:instantiates <5t-MsHW9Aik> ;
     vb:note "Sonstige Details: Ohne Text auf der Rückseite" ;
     vb:title "Austriae Ducatus Seu Pannoniae Superioris Chorographia Germana" ;
-    ns2:cartographicMathematicalDataProjectionStatement "920000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:920 000",
+    ns3:cartographicMathematicalDataProjectionStatement "920000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:920 000",
         "a" ;
-    ns2:edition "[2. Ausabe]" ;
-    ns2:publication <yx6D6SsU6EQ> .
+    ns3:edition "[2. Ausabe]" ;
+    ns3:publication <yx6D6SsU6EQ> .
 
 <P-nJzomahbI> a vb:Instance ;
     vb:controlCode "AC12706878" ;
@@ -551,19 +551,19 @@
     vb:instantiates <JnhZaVQMwaY> ;
     vb:note "Anmerkungen zur Entstehungsangabe: Noch mit dem Hinweis auf Matthäus Seutter als geistigen Schöpfer." ;
     vb:title "Asia" ;
-    ns2:cartographicMathematicalDataProjectionStatement "24000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa.1:24 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "24000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa.1:24 000 000",
         "a" ;
-    ns2:publication <zh3d_RoWHaQ> .
+    ns3:publication <zh3d_RoWHaQ> .
 
 <P11Ea49shas> a vb:Instance ;
     vb:controlCode "AC13303840",
         "AC13303867" ;
     vb:instantiates <tBKUXB9eNds> ;
     vb:title "Mer Mediterranée" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2400000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <-1R9CytGm2o> .
+    ns3:cartographicMathematicalDataProjectionStatement "2400000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <-1R9CytGm2o> .
 
 <Q4N6yjvNbQY> a vb:Instance ;
     vb:controlCode "AC11114025" ;
@@ -571,10 +571,10 @@
     vb:instantiates <In624Mn3bi8> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nordatlantik/Titelei]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2952000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "6" .
+    ns3:cartographicMathematicalDataProjectionStatement "2952000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "6" .
 
 <Q6rlKt49H8o> a vb:Instance ;
     vb:controlCode "AC12708991" ;
@@ -582,10 +582,10 @@
     vb:instantiates <mfWezoaS7kk> ;
     vb:note "Anmerkungen zur Entstehungsangabe: Noch mit dem Hinweis auf Matthäus Seutter als geistigen Schöpfer" ;
     vb:title "America Meridionalis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "50000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1:50 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "50000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1:50 000 000",
         "a" ;
-    ns2:publication <dtfQaWucf6U> .
+    ns3:publication <dtfQaWucf6U> .
 
 <QKDAdT-fZnE> a vb:Instance ;
     vb:controlCode "AC12240065" ;
@@ -593,10 +593,10 @@
     vb:instantiates <1acXfbio6iY> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nordskaninavien]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "3" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "3" .
 
 <QWv3IBaBiNE> a vb:Instance ;
     vb:controlCode "AC03761286" ;
@@ -604,10 +604,10 @@
     vb:instantiates <8JrDPDsg7wE> ;
     vb:note "Sonstige Details: Platte 52,5 x 61 cm" ;
     vb:title "Oberkrain Oder Der Laybacher Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <EThHNCbpkeQ> .
+    ns3:publication <EThHNCbpkeQ> .
 
 <RbXu789H--k> a vb:Instance ;
     vb:controlCode "AC04681391" ;
@@ -615,10 +615,10 @@
     vb:instantiates <T0f_ZWZ9OfA> ;
     vb:note "Sonstige Details: Platte 52,5 x 60,5 cm" ;
     vb:title "Oberkærnten Oder Der Villacher Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <PMvjP8Qn6Ws> .
+    ns3:publication <PMvjP8Qn6Ws> .
 
 <RksjFOUAlfk> a vb:Instance ;
     vb:controlCode "AC13365544" ;
@@ -626,10 +626,10 @@
     vb:instantiates <B8mkKZ9HmOQ> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert" ;
     vb:title "Carte De Moscovie" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2500000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:2 500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2500000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:2 500 000",
         "a" ;
-    ns2:publication <EcTXjWB-sao> .
+    ns3:publication <EcTXjWB-sao> .
 
 <RstVUWRG0r4> a vb:Instance ;
     vb:controlCode "AC12231556" ;
@@ -637,10 +637,10 @@
     vb:instantiates <G4dZaCkrt6s> ;
     vb:note "Druckprivileg: \"Cum privilegio Regis.\"" ;
     vb:title "<<La>> carte du Bourdelois, du pays de Médoc, et de la prevesté de Born." ;
-    ns2:cartographicMathematicalDataProjectionStatement "750000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:750 000",
+    ns3:cartographicMathematicalDataProjectionStatement "750000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:750 000",
         "a" ;
-    ns2:publication <CF9RHbofArc> .
+    ns3:publication <CF9RHbofArc> .
 
 <Rx4vw0VQ_Eo> a vb:Instance ;
     vb:controlCode "AC08768726" ;
@@ -648,10 +648,10 @@
     vb:instantiates <etFssGhj28c> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan flächenkoloriert und Blätter zusammengeklebt" ;
     vb:title "<<Il>> disegno della seconda Parte dell'Asia" ;
-    ns2:cartographicMathematicalDataProjectionStatement "9000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:7 500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "9000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:7 500 000",
         "a" ;
-    ns2:publication <4EzHud_YZ3c> .
+    ns3:publication <4EzHud_YZ3c> .
 
 <Snrdyh4gqns> a vb:Instance ;
     vb:controlCode "AC08566613" ;
@@ -659,10 +659,10 @@
     vb:instantiates <iUXsfWhCk1c> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan koloriert" ;
     vb:title "Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2700000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:2 700 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2700000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:2 700 000",
         "a" ;
-    ns2:publication <zDobDsVsKK8> .
+    ns3:publication <zDobDsVsKK8> .
 
 <StbT4Zaams0> a vb:Instance ;
     vb:controlCode "AC13039133" ;
@@ -670,10 +670,10 @@
     vb:instantiates <bTTI6nPZdcA> ;
     vb:note "Nullmeridian: Greenwich" ;
     vb:title "Map of the Northwest Part of Canada Indian Territories & Hudson's Bay" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2500000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:2 500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2500000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:2 500 000",
         "a" ;
-    ns2:publication <d7KKDqy1Jg4> .
+    ns3:publication <d7KKDqy1Jg4> .
 
 <T6r94HV0X5Y> a vb:Instance ;
     vb:controlCode "AC12239819" ;
@@ -681,10 +681,10 @@
     vb:instantiates <kK3AF4R9wU0> ;
     vb:note "Titel fingiert" ;
     vb:title "[Titelei]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "1" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "1" .
 
 <TE_XUX5Jns4> a vb:Instance ;
     vb:controlCode "AC00677476" ;
@@ -692,10 +692,10 @@
     vb:instantiates <gHqDCktzdgQ> ;
     vb:note "Bezugsmeridian: Ferro" ;
     vb:title "Reise- und Gebirgs-Karte vom Lande Salzburg mit Berchtesgaden und dem Salzkammergut nebst den angränzenden österreichisch- und bayerischen Landestheilen" ;
-    ns2:cartographicMathematicalDataProjectionStatement "500000" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "500000" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:500 000",
         "a" ;
-    ns2:publication <L5W9dnzJaIQ> .
+    ns3:publication <L5W9dnzJaIQ> .
 
 <TaRHI2ofMIw> a vb:Instance ;
     vb:controlCode "AC04522121" ;
@@ -703,10 +703,10 @@
     vb:instantiates <640gHkzAlpg> ;
     vb:note "Sonstige Details: Exemplar ONB koloriert, auf Leinen aufgezogen und in 4 Blätter (Blattgröße 46 x 67 cm) zerschnitten; Stempel der Berliner Akademie auf jedem Blatt" ;
     vb:title "Partes confines Trium Magnorum Imperiorum Austriaci Russici et Osmanic" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1850000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1 850 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1850000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1 850 000",
         "a" ;
-    ns2:publication <RwAPrXlryKU> .
+    ns3:publication <RwAPrXlryKU> .
 
 <TcJK2u-gxqo> a vb:Instance ;
     vb:controlCode "AC13304667" ;
@@ -714,9 +714,9 @@
     vb:instantiates <sbgIKdVhKcc> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert" ;
     vb:title "<<La>> Mer de Nort où sont la N.le France, La Floride, la N.le Espagne, les Isles et la Terre-Ferme d'Amerique" ;
-    ns2:cartographicMathematicalDataProjectionStatement "25000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <zYb6n-9-pCs> .
+    ns3:cartographicMathematicalDataProjectionStatement "25000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <zYb6n-9-pCs> .
 
 <UwR_Hh9dl08> a vb:Instance ;
     vb:controlCode "AC03761246" ;
@@ -724,10 +724,10 @@
     vb:instantiates <v6xc-EObBB0> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan koloriert, auf Kartenrand beschnitten ohne Blattnummer. - geschnitten und auf Leinen aufgezogen" ;
     vb:title "Unterkærnten Oder Der Klagenfurter Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <dJ2rGiLgGiY> .
+    ns3:publication <dJ2rGiLgGiY> .
 
 <V2VYHA9Qnuk> a vb:Instance ;
     vb:controlCode "AC13304657" ;
@@ -735,9 +735,9 @@
     vb:instantiates <ls0742H8kDw> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert" ;
     vb:title "<<Le>> Nouveau Mexique et La Terre de Jesso" ;
-    ns2:cartographicMathematicalDataProjectionStatement "25000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <zYb6n-9-pCs> .
+    ns3:cartographicMathematicalDataProjectionStatement "25000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <zYb6n-9-pCs> .
 
 <VHNvrijqNXg> a vb:Instance ;
     vb:controlCode "AC12247885" ;
@@ -745,10 +745,10 @@
     vb:instantiates <ttSaRbEB4W4> ;
     vb:note "Projektion: sterographisch" ;
     vb:title "Facies poli arctici adiacentiumque ei regionum ex recentissimis itinerariis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "30000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:30 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "30000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:30 000 000",
         "a" ;
-    ns2:publication <KtvrXro89dg> .
+    ns3:publication <KtvrXro89dg> .
 
 <VPGL_-5bhys> a vb:Instance ;
     vb:controlCode "AC10732326" ;
@@ -756,10 +756,10 @@
     vb:instantiates <srltYYrw8JE> ;
     vb:note "Projektion: Stereographische Projektion mit Projektionszentrum Berlin" ;
     vb:title "<<Die>> Untere oder Südliche Halbkugel der Erde" ;
-    ns2:cartographicMathematicalDataProjectionStatement "54000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1: 54 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "54000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1: 54 000 000",
         "a" ;
-    ns2:publication <nhMgBa0P4FY> .
+    ns3:publication <nhMgBa0P4FY> .
 
 <VSSD0grTOBM> a vb:Instance ;
     vb:controlCode "AC04031277" ;
@@ -767,10 +767,10 @@
     vb:instantiates <W_e5ew9s1S8> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert" ;
     vb:title "Karte der Œsterreichischen Monarchie und der von Österreichischen Prinzen und Prinzessinen beherrschten Italienischen Staaten als Toscana Modena Parma und Massa" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:2 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:2 000 000",
         "a" ;
-    ns2:publication <-ItjXFO3oRM> .
+    ns3:publication <-ItjXFO3oRM> .
 
 <W6ml9ymszZ8> a vb:Instance ;
     vb:controlCode "AC12213379" ;
@@ -778,10 +778,10 @@
     vb:instantiates <Q0S_6DjOAo4> ;
     vb:note "Erscheinungshinweise: Am rechten Kartenrand befindet sich ein Text an den Leser, unter anderem wird dabei auf \"Sr. N. Sanson d'Abbeville\" als Kartograph verwiesen" ;
     vb:title "Carte Geographicque des Postes qui traversent la France" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2600000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:2 600 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2600000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:2 600 000",
         "a" ;
-    ns2:publication <OZTCj5bCzio> .
+    ns3:publication <OZTCj5bCzio> .
 
 <WRmGWQK6PZw> a vb:Instance ;
     vb:controlCode "AC10732466" ;
@@ -789,10 +789,10 @@
     vb:instantiates <NsrFVNP7CLw> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan flächenkoloriert" ;
     vb:title "<<A>> New and Correct Map of the World" ;
-    ns2:cartographicMathematicalDataProjectionStatement "42000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a",
+    ns3:cartographicMathematicalDataProjectionStatement "42000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a",
         "circa 1:42 000 000" ;
-    ns2:publication <PyZiBaF1RrU> .
+    ns3:publication <PyZiBaF1RrU> .
 
 <XvtApSH49t8> a vb:Instance ;
     vb:controlCode "AC12240136" ;
@@ -800,10 +800,10 @@
     vb:instantiates <hpkcV7tWQ58> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nordsee]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "7" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "7" .
 
 <Z96SgZ750Ws> a vb:Instance ;
     vb:controlCode "AC04038983" ;
@@ -811,10 +811,10 @@
     vb:instantiates <r5YAbT4Z364> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert" ;
     vb:title "Erzherzogthum Österreich" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000",
         "a" ;
-    ns2:publication <V6OlavKC5ew> .
+    ns3:publication <V6OlavKC5ew> .
 
 <_iPMDzDYOso> a vb:Instance ;
     vb:controlCode "AC04564092" ;
@@ -822,7 +822,7 @@
     vb:instantiates <fVArfSzCVlo> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Leinen aufgezogen" ;
     vb:title "Grundriß und Durchschnitt zwoer Schleusen um die Bewegungsart zu zeigen wie ein Schiff sich stuffenweise zu gewissen Hoehen erheben und ebenso wieder abwaerts gehen koenne" ;
-    ns2:publication <GMnQ6FL1gzk> .
+    ns3:publication <GMnQ6FL1gzk> .
 
 <_uJ-GV7RypQ> a vb:Instance ;
     vb:controlCode "AC12239832" ;
@@ -830,8 +830,8 @@
     vb:instantiates <KGeYdsbfN5w> ;
     vb:note "Titel fingiert" ;
     vb:title "[Skelett für die Zusammenstellung der Blätter der Generalkarte von Europa]" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "26" .
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "26" .
 
 <a98rkwGWre0> a vb:Instance ;
     vb:controlCode "AC12240259" ;
@@ -839,10 +839,10 @@
     vb:instantiates <Fuf6YbiFNr0> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nord-Russland]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "10" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "10" .
 
 <bjamoKqsIU0> a vb:Instance ;
     vb:controlCode "AC04564083" ;
@@ -850,10 +850,10 @@
     vb:instantiates <XQzDu4V2EUk> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Leinen aufgezogen" ;
     vb:title "Verbindung der Sann und des Bug mit dem Niester" ;
-    ns2:cartographicMathematicalDataProjectionStatement "350000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:350 000",
+    ns3:cartographicMathematicalDataProjectionStatement "350000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:350 000",
         "a" ;
-    ns2:publication <GMnQ6FL1gzk> .
+    ns3:publication <GMnQ6FL1gzk> .
 
 <busrUyRxwCI> a vb:Instance ;
     vb:controlCode "AC13310541" ;
@@ -861,10 +861,10 @@
     vb:instantiates <CgAw46NbnMw> ;
     vb:note "Projektion: Stereographische Projektion" ;
     vb:title "Nova totius terrarum orbis geographica ac hydrographica tabula" ;
-    ns2:cartographicMathematicalDataProjectionStatement "75000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:75 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "75000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:75 000 000",
         "a" ;
-    ns2:publication <M0Z8HzGrkTE> .
+    ns3:publication <M0Z8HzGrkTE> .
 
 <d6ZQVudRfgY> a vb:Instance ;
     vb:controlCode "AC12242045" ;
@@ -872,10 +872,10 @@
     vb:instantiates <QgkY_4mX4kI> ;
     vb:note "Titel fingiert" ;
     vb:title "[Portugal; West-Spanien]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "16" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "16" .
 
 <d9WeT1On0qs> a vb:Instance ;
     vb:controlCode "AC12708841" ;
@@ -883,10 +883,10 @@
     vb:instantiates <6oLiHf1sYv8> ;
     vb:note "Anmerkungen zur Entstehungsangabe: Noch mit dem Hinweis auf Matthäus Seutter als geistigen Schöpfer" ;
     vb:title "Novus Orbis Sive America Septentrionalis divisa" ;
-    ns2:cartographicMathematicalDataProjectionStatement "37000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:37 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "37000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:37 000 000",
         "a" ;
-    ns2:publication <dtfQaWucf6U> .
+    ns3:publication <dtfQaWucf6U> .
 
 <drXF1tEDmgI> a vb:Instance ;
     vb:controlCode "AC03761212" ;
@@ -894,10 +894,10 @@
     vb:instantiates <8fDUW8mkiBQ> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan koloriert, auf Kartenrand beschnitten ohne Blattnummer. - geschnitten und auf Leinen aufgezogen" ;
     vb:title "<<Der>> Westliche Theil Von Obersteyermark Oder Der Judenburger Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <13HD9olumVY> .
+    ns3:publication <13HD9olumVY> .
 
 <e5dziRVjcgU> a vb:Instance ;
     vb:controlCode "AC11183924" ;
@@ -905,10 +905,10 @@
     vb:instantiates <ZzYMmm5d6wg> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan in 6 Teile zerschnitten und auf Leinen aufgezogen in Leinenumschlag (31 x 27 cm)" ;
     vb:title "Allgemeine Welt_Karte in Mercator's Projection." ;
-    ns2:cartographicMathematicalDataProjectionStatement "55000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:55 000 000 am Äquator",
+    ns3:cartographicMathematicalDataProjectionStatement "55000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:55 000 000 am Äquator",
         "a" ;
-    ns2:publication <UzXCjU1gXu4> .
+    ns3:publication <UzXCjU1gXu4> .
 
 <e9bfdbsgQIE> a vb:Instance ;
     vb:controlCode "AC04681914" ;
@@ -916,10 +916,10 @@
     vb:instantiates <w3c7YjgzuBI> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert, Blatt auf Kartenrand beschnitten ohne Blattnummer. - geschnitten und auf Leinen aufgezogen" ;
     vb:title "<<Die>> Provinz Inner-Œsterreich Oder Die Herzogthümer Steyermark, Kærnten Und Krain, Die Grafschaften Gœrz Und Gradisca Und Das Deutsch-Œsterreichische Litorale" ;
-    ns2:cartographicMathematicalDataProjectionStatement "730000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:730 000",
+    ns3:cartographicMathematicalDataProjectionStatement "730000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:730 000",
         "a" ;
-    ns2:publication <TV_8HRkZmxg> .
+    ns3:publication <TV_8HRkZmxg> .
 
 <eSsn6fe0JsA> a vb:Instance ;
     vb:controlCode "AC12240158" ;
@@ -927,10 +927,10 @@
     vb:instantiates <4QLaOU38xZs> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nordwest-Russland]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "9" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "9" .
 
 <eXyFVJ5U3xE> a vb:Instance ;
     vb:controlCode "AC12242023" ;
@@ -938,10 +938,10 @@
     vb:instantiates <yFo8VkDTSlY> ;
     vb:note "Titel fingiert" ;
     vb:title "[Schwarzes Meer und Küstenstaaten]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "19" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "19" .
 
 <fCoyAo4LVUg> a vb:Instance ;
     vb:controlCode "AC08769695" ;
@@ -949,10 +949,10 @@
     vb:instantiates <9YRM7UjSPHo> ;
     vb:note "Sonstige Details: Beschreibungstext auf der Rückseite des Blattes \"Beschryvinge vande Straten ofte engten van Malacca ende Sunda / met haer omligghende Eylanden / Bancken / Ondiepten ende Sanden.\"" ;
     vb:title "Nova tabula, Insularum Javae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur, vada et brevia scopulique interjacentes" ;
-    ns2:cartographicMathematicalDataProjectionStatement "5250000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:5 250 000",
+    ns3:cartographicMathematicalDataProjectionStatement "5250000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:5 250 000",
         "a" ;
-    ns2:publication <aFiJxwo_OJ4> .
+    ns3:publication <aFiJxwo_OJ4> .
 
 <fV47QsLjMjo> a vb:Instance ;
     vb:controlCode "AC12247972" ;
@@ -960,10 +960,10 @@
     vb:instantiates <2lmdsvpTtTg> ;
     vb:note "Projektion: sterographisch" ;
     vb:title "Ukrania seu Cosa Corum Regio Walachia item Moldavia et Trartaria minor" ;
-    ns2:cartographicMathematicalDataProjectionStatement "4800000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:4 800 000",
+    ns3:cartographicMathematicalDataProjectionStatement "4800000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:4 800 000",
         "a" ;
-    ns2:publication <5XHgFm77jqs> .
+    ns3:publication <5XHgFm77jqs> .
 
 <g0rm92SyVsc> a vb:Instance ;
     vb:controlCode "AC12242030" ;
@@ -971,10 +971,10 @@
     vb:instantiates <whsz0U4YebA> ;
     vb:note "Titel fingiert" ;
     vb:title "[Adria; Italien; Kroatien; Türkei]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "18" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "18" .
 
 <gENkz_otKMo> a vb:Instance ;
     vb:controlCode "AC03758348" ;
@@ -982,10 +982,10 @@
     vb:instantiates <5-FNOZxZEQs> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Kartenrand beschnitten ohne Blattnummer. - geschnitten und auf Leinen aufgezogen" ;
     vb:title "<<Der>> Mittlere Theil Von Unter-Steyermark Oder Der Marburger Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <InDJ3HbWWQ0> .
+    ns3:publication <InDJ3HbWWQ0> .
 
 <gLVRk5P8IWY> a vb:Instance ;
     vb:controlCode "AC12239283" ;
@@ -993,8 +993,8 @@
     vb:instantiates <_lpFi0Zlgqc> ;
     vb:note "Projektion: gnomisch projizierte Weltkarte mit Nordpol als Projektionszentrum" ;
     vb:title "[Weltkarte]" ;
-    ns2:cartographicMathematicalDataScaleStatement "Maßstab variiert" ;
-    ns2:publication <402vm6yHgD4> .
+    ns3:cartographicMathematicalDataScaleStatement "Maßstab variiert" ;
+    ns3:publication <402vm6yHgD4> .
 
 <hJHKDY7Lzo4> a vb:Instance ;
     vb:controlCode "AC04564040" ;
@@ -1002,9 +1002,9 @@
     vb:instantiates <y1rsiapliyU> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Leinen aufgezogen" ;
     vb:title "Verbindung des Adriatischen Meeres mit der Kulpa" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:250 000 - Circa 1:6 500",
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:250 000 - Circa 1:6 500",
         "a" ;
-    ns2:publication <GMnQ6FL1gzk> .
+    ns3:publication <GMnQ6FL1gzk> .
 
 <i3HoCPIvAEY> a vb:Instance ;
     vb:controlCode "AC12307523" ;
@@ -1012,10 +1012,10 @@
     vb:instantiates <mNfZKo4MD3E> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan koloriert" ;
     vb:title "Typus Totius Orbis Terrarum," ;
-    ns2:cartographicMathematicalDataProjectionStatement "85000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:85 000 000 am Äquator",
+    ns3:cartographicMathematicalDataProjectionStatement "85000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:85 000 000 am Äquator",
         "a" ;
-    ns2:publication <-z2mAArFZqo> .
+    ns3:publication <-z2mAArFZqo> .
 
 <j2NR7tzEr0M> a vb:Instance ;
     vb:controlCode "AC12211701" ;
@@ -1023,10 +1023,10 @@
     vb:instantiates <CIBCqIgTh2o> ;
     vb:note "Ausrichtung: Osten" ;
     vb:title "Descrittione del Ducato di Savoia novamente posto in luce in Venetia L'anno MDLXII" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1 000 000",
         "a" ;
-    ns2:manufacture <rul6ZG7Ynsc> .
+    ns3:manufacture <rul6ZG7Ynsc> .
 
 <jdekB02bqvw> a vb:Instance ;
     vb:controlCode "AC12708594" ;
@@ -1034,10 +1034,10 @@
     vb:instantiates <DSf7Z_H0Bzc> ;
     vb:note "Anmerkungen zur Entstehungsangabe: Noch mit dem Hinweis auf Matthäus Seutter als geistigen Schöpfer" ;
     vb:title "Africa" ;
-    ns2:cartographicMathematicalDataProjectionStatement "50000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:50 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "50000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:50 000 000",
         "a" ;
-    ns2:publication <zh3d_RoWHaQ> .
+    ns3:publication <zh3d_RoWHaQ> .
 
 <lEqwHMO1Kp8> a vb:Instance ;
     vb:controlCode "AC12247964" ;
@@ -1045,10 +1045,10 @@
     vb:instantiates <PEyTdQKA6Ac> ;
     vb:note "Projektion: sterographisch" ;
     vb:title "Lusatia Inferior" ;
-    ns2:cartographicMathematicalDataProjectionStatement "330000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:330 000",
+    ns3:cartographicMathematicalDataProjectionStatement "330000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:330 000",
         "a" ;
-    ns2:publication <5XHgFm77jqs> .
+    ns3:publication <5XHgFm77jqs> .
 
 <lLqgPZ6TNMI> a vb:Instance ;
     vb:controlCode "AC03758239" ;
@@ -1056,10 +1056,10 @@
     vb:instantiates <2M1X1O9KuS0> ;
     vb:note "Anmerkungen zur Entstehungsangabe: Werk ohne gedrucktes Titelblatt, Titelbezeichnungen aus Literatur (siehe: Atlantes Austriaci, 1.Band: 1561-1918, Seite 63)" ;
     vb:title "[Atlas von Innerösterreich]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:730 000-1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:730 000-1:255 000",
         "a" ;
-    ns2:publication <F3M-6wy4FYw> .
+    ns3:publication <F3M-6wy4FYw> .
 
 <lhWQNPAAEVE> a vb:Instance ;
     vb:controlCode "AC08770684" ;
@@ -1067,10 +1067,10 @@
     vb:instantiates <u3-JYyeIikU> ;
     vb:note "Ausrichtung: Osten" ;
     vb:title "Macao" ;
-    ns2:cartographicMathematicalDataProjectionStatement "14000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:14 000",
+    ns3:cartographicMathematicalDataProjectionStatement "14000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:14 000",
         "a" ;
-    ns2:publication <quIDOwxdKsk> .
+    ns3:publication <quIDOwxdKsk> .
 
 <lx18OiwwGiQ> a vb:Instance ;
     vb:controlCode "AC04043529" ;
@@ -1078,20 +1078,20 @@
     vb:instantiates <2StEmTTDyx4> ;
     vb:note "Details zu Maßstabsangaben: Maßstab in graphischer Form, \"öst: Meilen\" und \"Klafter\"" ;
     vb:title "Uibersichts Karte der projectirten Tracen, der Wien-Raaber Eisenbahn sammt Nebenzweigen" ;
-    ns2:cartographicMathematicalDataProjectionStatement "432000" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:432 000",
+    ns3:cartographicMathematicalDataProjectionStatement "432000" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:432 000",
         "a" ;
-    ns2:publication <4VMqjEuFiHY> .
+    ns3:publication <4VMqjEuFiHY> .
 
 <mi_QlcQRdVQ> a vb:Instance ;
     vb:controlCode "AC04246197" ;
     vb:extent "1 Karte" ;
     vb:instantiates <kwKCv-MNB3Y> ;
     vb:title "Umgebung von Gutenstein" ;
-    ns2:cartographicMathematicalDataProjectionStatement "34200" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:manufacture <hOPuehczhkw> ;
-    ns2:publication <CMnMAFJIybw> .
+    ns3:cartographicMathematicalDataProjectionStatement "34200" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:manufacture <hOPuehczhkw> ;
+    ns3:publication <CMnMAFJIybw> .
 
 <oaNBG9o2-DQ> a vb:Instance ;
     vb:controlCode "AC12209932" ;
@@ -1099,10 +1099,10 @@
     vb:instantiates <40f1o2jVgXM> ;
     vb:note "Projektion: Sinusodial Projektion" ;
     vb:title "<<La>> Scandinavie Et les environs" ;
-    ns2:cartographicMathematicalDataProjectionStatement "6500000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:6 500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "6500000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:6 500 000",
         "a" ;
-    ns2:publication <e_olCGZB_OI> .
+    ns3:publication <e_olCGZB_OI> .
 
 <pNBaP7KkmIs> a vb:Instance ;
     vb:controlCode "AC13304633" ;
@@ -1110,10 +1110,10 @@
     vb:instantiates <RY7pIXrD1Ts> ;
     vb:note "Druckprivileg: \"Avec privilege de Sa Majeste pour Vingt ans\"" ;
     vb:title "<<L'>>Amerique" ;
-    ns2:cartographicMathematicalDataProjectionStatement "25000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:25 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "25000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:25 000 000",
         "a" ;
-    ns2:publication <zYb6n-9-pCs> .
+    ns3:publication <zYb6n-9-pCs> .
 
 <ppLuWk1Psyk> a vb:Instance ;
     vb:controlCode "AC04038754" ;
@@ -1121,10 +1121,10 @@
     vb:instantiates <rBFMBPxBAZI> ;
     vb:note "Ausrichtung: Ost" ;
     vb:title "Karte Der Eisenbahn Zwischen Budweis Und Linz Zur Verbindung Der Donau Mit Der Moldau" ;
-    ns2:cartographicMathematicalDataProjectionStatement "140000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:140 000",
+    ns3:cartographicMathematicalDataProjectionStatement "140000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:140 000",
         "a" ;
-    ns2:publication <UjZbbCI02is> .
+    ns3:publication <UjZbbCI02is> .
 
 <qDyB8IqETnc> a vb:Instance ;
     vb:controlCode "AC04077324" ;
@@ -1132,9 +1132,9 @@
     vb:instantiates <dTWjAXnsbME> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan Kronländer sind Grenzkoloriert" ;
     vb:title "Karte der Œsterreichischen Monarchie" ;
-    ns2:cartographicMathematicalDataScaleStatement "3000000",
+    ns3:cartographicMathematicalDataScaleStatement "3000000",
         "Circa 1:3 000 000" ;
-    ns2:publication <TmEOxjHwLKY> .
+    ns3:publication <TmEOxjHwLKY> .
 
 <qwQC4ksbXqE> a vb:Instance ;
     vb:controlCode "AC12242040" ;
@@ -1142,10 +1142,10 @@
     vb:instantiates <BLKs50_jAJg> ;
     vb:note "Titel fingiert" ;
     vb:title "[Westl. Mittelmeer; Frankreich; Spanien]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "17" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "17" .
 
 <rPb0Vm4TDy0> a vb:Instance ;
     vb:controlCode "AC04465502" ;
@@ -1153,10 +1153,10 @@
     vb:instantiates <7ORTwNX7YAg> ;
     vb:note "Details zu Maßstabsangaben: Maßstab in graph. Form (Lieues Communes de France, Lieues Marines de France et d'Angleterre)" ;
     vb:title "Carte de la Mer Mediterranée" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2400000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:2 400 000",
+    ns3:cartographicMathematicalDataProjectionStatement "2400000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:2 400 000",
         "a" ;
-    ns2:publication <bjwI_7K_ZNE> .
+    ns3:publication <bjwI_7K_ZNE> .
 
 <rcJfRgHOp9o> a vb:Instance ;
     vb:controlCode "AC12241989" ;
@@ -1164,10 +1164,10 @@
     vb:instantiates <9ocuaDxgYhE> ;
     vb:note "Titel fingiert" ;
     vb:title "[Ägypten; Zypern; Südtürkei; Griechische Inseln]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "24" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "24" .
 
 <tBTl2tzW_d0> a vb:Instance ;
     vb:controlCode "AC03762591" ;
@@ -1175,8 +1175,8 @@
     vb:instantiates <g0vZpzLREjI> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Originalbögen" ;
     vb:title "Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:970 000" ;
-    ns2:publication <zJX9pU6mRZc> .
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:970 000" ;
+    ns3:publication <zJX9pU6mRZc> .
 
 <tWVUPCV1N8s> a vb:Instance ;
     vb:controlCode "AC12706659" ;
@@ -1184,10 +1184,10 @@
     vb:instantiates <eN_O8ivrMxM> ;
     vb:note "Anmerkungen zur Entstehungsangabe:noch mit dem Hinweis auf Matthäus Seutter als geistigen Schöpfer" ;
     vb:title "Europa" ;
-    ns2:cartographicMathematicalDataProjectionStatement "24000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:24 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "24000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:24 000 000",
         "a" ;
-    ns2:publication <zh3d_RoWHaQ> .
+    ns3:publication <zh3d_RoWHaQ> .
 
 <tam_2JegLxI> a vb:Instance ;
     vb:controlCode "AC03869742" ;
@@ -1195,10 +1195,10 @@
     vb:instantiates <HsB-EOskLdo> ;
     vb:note "Bezugsmeridian: Ferro" ;
     vb:title "Karte des Sonnblick und Umgebung" ;
-    ns2:cartographicMathematicalDataProjectionStatement "50000" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:50 000",
+    ns3:cartographicMathematicalDataProjectionStatement "50000" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:50 000",
         "a" ;
-    ns2:publication <52QrHCBbDVY> .
+    ns3:publication <52QrHCBbDVY> .
 
 <w6OkyBbblxQ> a vb:Instance ;
     vb:controlCode "AC12242016" ;
@@ -1206,10 +1206,10 @@
     vb:instantiates <BX2MpbWi9Jo> ;
     vb:note "Titel fingiert" ;
     vb:title "[Armenien; Aserbaidschan; Russland; Georgien; Iran; Kaspisches Meer]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "20" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "20" .
 
 <wYRL2H8tyGA> a vb:Instance ;
     vb:controlCode "AC12240089" ;
@@ -1217,10 +1217,10 @@
     vb:instantiates <rrOdYI7MiH4> ;
     vb:note "Titel fingiert" ;
     vb:title "[Nordosteuropäische Küste]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "4" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "4" .
 
 <wgMaS3oFMlM> a vb:Instance ;
     vb:controlCode "AC12247898" ;
@@ -1228,10 +1228,10 @@
     vb:instantiates <Lm85qT74W-I> ;
     vb:note "Projektion: sterographisch" ;
     vb:title "Facies poli antarctici ex recentissimis itinerariis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "35000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:3 500 000",
+    ns3:cartographicMathematicalDataProjectionStatement "35000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:3 500 000",
         "a" ;
-    ns2:publication <PNQe1S7rkog> .
+    ns3:publication <PNQe1S7rkog> .
 
 <xCq2E4pnMf8> a vb:Instance ;
     vb:controlCode "AC13303999" ;
@@ -1239,10 +1239,10 @@
     vb:instantiates <z9L8BORHiJo> ;
     vb:note "Druckprivileg: \"Cum Gratia et Privilegio S. C. et Cath Maj.\"" ;
     vb:title "Carte Originale et particuliere da la Bosnie dans son entier la prémiere donnée au public, jusqu'a ce jour, nous navons jamais encore eû aucune Carte particuliere de cette Célébre Province tant rénommée, qui fait depuis plusieurs siécles tant de bruit dans le Monde, avec la Croatie, Lé sclavonie, la Morlaquie, partie de l'hongrie, Stirie, Comté de Cilley, Carenthie, Carniole, parties des Confins maritimes; partie de la Dalmatie, Servie et le L'albanie" ;
-    ns2:cartographicMathematicalDataProjectionStatement "560000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:560 000",
+    ns3:cartographicMathematicalDataProjectionStatement "560000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:560 000",
         "a" ;
-    ns2:publication <2oZfHZDJ8PA> .
+    ns3:publication <2oZfHZDJ8PA> .
 
 <xtpvdokxsIU> a vb:Instance ;
     vb:controlCode "AC03761386" ;
@@ -1250,10 +1250,10 @@
     vb:instantiates <QA0pGx7Oui4> ;
     vb:note "Sonstige Details: Platte 53 x 61 cm" ;
     vb:title "<<Der>> Gœrzer Kreis Und Der Triester Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "255000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
+    ns3:cartographicMathematicalDataProjectionStatement "255000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:255 000",
         "a" ;
-    ns2:publication <EThHNCbpkeQ> .
+    ns3:publication <EThHNCbpkeQ> .
 
 <yHPQDe380aY> a vb:Instance ;
     vb:controlCode "AC12706488" ;
@@ -1261,10 +1261,10 @@
     vb:instantiates <4zZiteF2vRY> ;
     vb:note "Anmerkungen zur Entstehungsangabe: Noch mit dem Hinweis auf Matthäus Seutter als geistigen Schöpfer." ;
     vb:title "Diversi Globi Terr-Aquei" ;
-    ns2:cartographicMathematicalDataProjectionStatement "150000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:150 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "150000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:150 000 000",
         "a" ;
-    ns2:publication <zh3d_RoWHaQ> .
+    ns3:publication <zh3d_RoWHaQ> .
 
 <ypLk68jT3hE> a vb:Instance ;
     vb:controlCode "AC03793289" ;
@@ -1272,10 +1272,10 @@
     vb:instantiates <Ph1U_57quAk> ;
     vb:note "Gitterlinien: Gitternetz ohne geographische Angaben" ;
     vb:title "Ethnographische Karte der Oesterreichischen Monarchie" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1584000" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:1 584 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1584000" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:1 584 000",
         "a" ;
-    ns2:publication <1i9SYmmyTj4> .
+    ns3:publication <1i9SYmmyTj4> .
 
 <yrO9LgBGD0U> a vb:Instance ;
     vb:controlCode "AC13372150" ;
@@ -1283,10 +1283,10 @@
     vb:instantiates <erk4T1O6FfQ> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan flächen- und grenzkoloriert" ;
     vb:title "Der Oesterreichische Kreis" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1300000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:1 300 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1300000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:1 300 000",
         "a" ;
-    ns2:publication <auyRRSS-vbw> .
+    ns3:publication <auyRRSS-vbw> .
 
 <z87QMD92wmI> a vb:Instance ;
     vb:controlCode "AC04031969" ;
@@ -1294,10 +1294,10 @@
     vb:instantiates <FUW-5FFXx0E> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan Königreich Illyrien und Herzogthum Steyermark grenzkoloriert" ;
     vb:title "Charte von dem Königreiche Illyrien und dem Herzogthume Steyermark" ;
-    ns2:cartographicMathematicalDataProjectionStatement "690000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:690 000",
+    ns3:cartographicMathematicalDataProjectionStatement "690000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:690 000",
         "a" ;
-    ns2:publication <9GMjxDvYfnk> .
+    ns3:publication <9GMjxDvYfnk> .
 
 <zK7XWzlXIxo> a vb:Instance ;
     vb:controlCode "AC04043186" ;
@@ -1305,10 +1305,10 @@
     vb:instantiates <JuWNjeXJ-Pc> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan grenzkoloriert" ;
     vb:title "General Karte von dem Oesterreichischen Kaiserstaate" ;
-    ns2:cartographicMathematicalDataProjectionStatement "1350000" ;
-    ns2:cartographicMathematicalDataScaleStatement "1:1 350 000",
+    ns3:cartographicMathematicalDataProjectionStatement "1350000" ;
+    ns3:cartographicMathematicalDataScaleStatement "1:1 350 000",
         "a" ;
-    ns2:publication <NpiVJvqjz6c> .
+    ns3:publication <NpiVJvqjz6c> .
 
 <zaJ85K-Ndxo> a vb:Instance ;
     vb:controlCode "AC12247880" ;
@@ -1316,17 +1316,17 @@
     vb:instantiates <1-kKdAqjlTY> ;
     vb:note "Projektion: sterographisch" ;
     vb:title "Planigobium Terrestre Minus" ;
-    ns2:cartographicMathematicalDataProjectionStatement "115000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:110 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "115000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:110 000 000",
         "a" ;
-    ns2:publication <7XCyY3v4TpM> .
+    ns3:publication <7XCyY3v4TpM> .
 
 <zomUAngzTkY> a vb:Instance ;
     vb:controlCode "AC10731800" ;
     vb:instantiates <T2g7XptNBVc> ;
     vb:note "Pränumerationsausgabe. - Zwei Karten und eine Beschreibung" ;
     vb:title "[Auf den Horizont von Berlin entworfene neue Weltcharte in zween Hemisphären]" ;
-    ns2:publication <WC59h9A-IXA> .
+    ns3:publication <WC59h9A-IXA> .
 
 <zrWNTnWMzpU> a vb:Instance ;
     vb:controlCode "AC12241996" ;
@@ -1334,10 +1334,10 @@
     vb:instantiates <kEmSxyAFpNU> ;
     vb:note "Titel fingiert" ;
     vb:title "[Große Syrte; Sizilien; Pelopones]" ;
-    ns2:cartographicMathematicalDataProjectionStatement "2592000" ;
-    ns2:cartographicMathematicalDataScaleStatement "a" ;
-    ns2:publication <eSutP5vmfPI> ;
-    ns2:titleNumber "23" .
+    ns3:cartographicMathematicalDataProjectionStatement "2592000" ;
+    ns3:cartographicMathematicalDataScaleStatement "a" ;
+    ns3:publication <eSutP5vmfPI> ;
+    ns3:titleNumber "23" .
 
 <zrjxY6e2ffg> a vb:Instance ;
     vb:controlCode "AC04564058" ;
@@ -1345,10 +1345,10 @@
     vb:instantiates <uGD67l0mOpI> ;
     vb:note "Sonstige Details: Exemplar ÖAW-Sammlung Woldan auf Leinen aufgezogen" ;
     vb:title "Verbindung der Drau mit der Save" ;
-    ns2:cartographicMathematicalDataProjectionStatement "350000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:250 000",
+    ns3:cartographicMathematicalDataProjectionStatement "350000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:250 000",
         "a" ;
-    ns2:publication <GMnQ6FL1gzk> .
+    ns3:publication <GMnQ6FL1gzk> .
 
 <zu2uMcvzp0I> a vb:Instance ;
     vb:controlCode "AC12226339" ;
@@ -1356,10 +1356,10 @@
     vb:instantiates <0SR0xiML_dE> ;
     vb:note "Projektion: Stab-Wernersche Projektion" ;
     vb:title "Nova, Et Integra Universi Orbis Descriptio" ;
-    ns2:cartographicMathematicalDataProjectionStatement "85000000" ;
-    ns2:cartographicMathematicalDataScaleStatement "Circa 1:85 000 000",
+    ns3:cartographicMathematicalDataProjectionStatement "85000000" ;
+    ns3:cartographicMathematicalDataScaleStatement "Circa 1:85 000 000",
         "a" ;
-    ns2:publication <0IOUIMf0S0w> .
+    ns3:publication <0IOUIMf0S0w> .
 
 <-ItjXFO3oRM> a vb:ProviderEvent ;
     vb:providerAgent <TT7N1sWxgSg> ;
@@ -1404,9 +1404,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Süd-Britische Inseln und Nordwest Europäisches Festland]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "12" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "12" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -1419,7 +1419,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <tDO1RtCXCQ0> .
 
 <0IOUIMf0S0w> a vb:ProviderEvent ;
@@ -1438,8 +1438,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Nova, Et Integra Universi Orbis Descriptio" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -1463,13 +1463,13 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-s "Weltkarte" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:ctg <-Z1qKBZ1-mw> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <-Z1qKBZ1-mw> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <0V-jxK35bV0> a vb:Work ;
     vb:title "Umgebung von Krieglach" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -1486,7 +1486,7 @@
     ns1:tag-902-XX-f "Karte" ;
     ns1:tag-902-XX-g "Krieglach" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:isPartOf <ClezJaeayDc>,
+    ns2:isPartOf <ClezJaeayDc>,
         <sSpDMdJWt2c> .
 
 <0_6rl9umRSs> a vb:Agent ;
@@ -1502,9 +1502,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Johann David Koehlers Historiarum & Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff>> Bequemer Schul- und Reisen-Atlas" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Bequemer Schul- und Reisen-Atlas" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Bequemer Schul- und Reisen-Atlas" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -1537,8 +1537,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Planigobium Terrestre Minus" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -1559,15 +1559,15 @@
     ns1:tag-425-aX-a "1718" ;
     ns1:tag-435-XX-a "28 x 35 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:isPartOf <bnXzwo9ma48> .
+    ns2:isPartOf <bnXzwo9ma48> .
 
 <1acXfbio6iY> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nordskaninavien]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "3" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "3" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -1580,7 +1580,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <kCuo_uHQV6c> .
 
 <1i9SYmmyTj4> a vb:ProviderEvent ;
@@ -1606,10 +1606,10 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Atlas von Innerösterreich]" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "[Innerösterreichischer Atlas]" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "[Innerösterreichischer Atlas]" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -1640,8 +1640,8 @@
     ns1:tag-902-XX-g "Innerösterreich" ;
     ns1:tag-902-XX-s "Kartenwerk" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <2StEmTTDyx4> a vb:Work ;
     vb:creator <bi7qTgoRRcA>,
@@ -1650,8 +1650,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Uibersichts Karte der projectirten Tracen, der Wien-Raaber Eisenbahn sammt Nebenzweigen" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -1674,15 +1674,15 @@
     ns1:tag-902-XX-g "Transdanubien" ;
     ns1:tag-902-XX-s "Eisenbahnlinie" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:edt <bi7qTgoRRcA> .
+    ns2:edt <bi7qTgoRRcA> .
 
 <2czcsoEVVU0> a vb:Work ;
     vb:creator <K2iSSr_6x6Y>,
         <fEPC99h1OCg> ;
     vb:language "ger" ;
     vb:title "Beschreibung und Gebrauch einer auf den Horizont von Berlin entworfenen neuen Weltcharte in zween Hemisphären" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
     ns1:tag-000 "00000nM2.01200024||||||h",
         "MH" ;
     ns1:tag-003 "20161111" ;
@@ -1711,8 +1711,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Ukrania seu Cosa Corum Regio Walachia item Moldavia et Trartaria minor" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -1733,7 +1733,7 @@
     ns1:tag-425-aX-a "1718" ;
     ns1:tag-435-XX-a "33 x 39 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:isPartOf <bnXzwo9ma48> .
+    ns2:isPartOf <bnXzwo9ma48> .
 
 <2oZfHZDJ8PA> a vb:ProviderEvent ;
     vb:providerAgent <ra_PVLACur8> ;
@@ -1754,7 +1754,7 @@
 
 <3LzlVkot9rU> a vb:Person ;
     vb:name "74.31" ;
-    ns2:numeration "Geschichte der Kartographie" ;
+    ns3:numeration "Geschichte der Kartographie" ;
     ns1:sf-a "74.31" ;
     ns1:sf-b "Geschichte der Kartographie" ;
     ns1:sf-z "Automatisch generiert aus Konkordanz RVK-BK-Geographie" .
@@ -1774,8 +1774,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<La>> Scandinavie Et les environs" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -1796,7 +1796,7 @@
     ns1:tag-902-XX-9 "(DE-588)4075455-8" ;
     ns1:tag-902-XX-g "Nordeuropa" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:edt <1AVGs8Mhi4s> .
+    ns2:edt <1AVGs8Mhi4s> .
 
 <45xsLuLvX8k> a vb:Person ;
     vb:name "Sandrart, Jakob <<von>>" ;
@@ -1822,9 +1822,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nordwest-Russland]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "9" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "9" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -1837,7 +1837,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <mKJsK4cxC-I> .
 
 <4SwvVGylcjU> a vb:Agent ;
@@ -1858,9 +1858,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Süd-Skandinavien]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "8" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "8" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -1873,7 +1873,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <_4QgS1_9gsM> .
 
 <4zZiteF2vRY> a vb:Work ;
@@ -1884,8 +1884,8 @@
     vb:language "lat" ;
     vb:subject <EcBOH6bvkw0> ;
     vb:title "Diversi Globi Terr-Aquei" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -1919,7 +1919,7 @@
     ns1:tag-902-XX-a "Altkarte" ;
     ns1:tag-902-XX-s "Planiglob" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:egr <IUm-tYT-1lk> .
 
 <5-FNOZxZEQs> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -1929,9 +1929,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Der>> Mittlere Theil Von Unter-Steyermark Oder Der Marburger Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -1971,8 +1971,8 @@
     ns1:tag-907-XX-g "Maribor" ;
     ns1:tag-907-XX-s "Verwaltungsgrenze" ;
     ns1:tag-909-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <52QrHCBbDVY> a vb:ProviderEvent ;
     vb:providerAgent <BYzP1gVCfgM> ;
@@ -1995,8 +1995,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Austriae Ducatus Seu Pannoniae Superioris Chorographia Germana" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2034,9 +2034,9 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Partes confines Trium Magnorum Imperiorum Austriaci Russici et Osmanic" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2073,7 +2073,7 @@
     ns1:tag-917-XX-f "Altkarte" ;
     ns1:tag-917-XX-g "Anatolien" ;
     ns1:tag-919-aX-a "ONBKRP" ;
-    ns3:ctg <bi_9gEnJj1I> .
+    ns2:ctg <bi_9gEnJj1I> .
 
 <67wc2OwdjBM> a vb:Person ;
     vb:name "Rhode, Johann Christian" ;
@@ -2097,9 +2097,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Charte den Oesterreichischen Kreis nach seinen Haupt- und Unter-Abtheilungen vorstellend" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2121,7 +2121,7 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Österreichischer Reichskreis" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <A0cWIwaU6jw> .
+    ns2:ctg <A0cWIwaU6jw> .
 
 <6oLiHf1sYv8> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -2131,8 +2131,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Novus Orbis Sive America Septentrionalis divisa" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2165,7 +2165,7 @@
     ns1:tag-902-XX-a "Altkarte" ;
     ns1:tag-902-XX-g "Nordamerika" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:pbl <IUm-tYT-1lk> .
 
 <6xn7HjIlQvA> a vb:Work ;
     ns1:sf-q "13" .
@@ -2182,9 +2182,9 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Carte de la Mer Mediterranée" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2222,16 +2222,16 @@
     ns1:tag-902-XX-g "Mittelmeer" ;
     ns1:tag-902-XX-s "Seekarte" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <0JLa2HrmGHY> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <0JLa2HrmGHY> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <7S9ZJDclTWU> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Marokko]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "21" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "21" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -2244,7 +2244,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <bPGjVKLkX4s> .
 
 <7XCyY3v4TpM> a vb:ProviderEvent ;
@@ -2268,9 +2268,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Oberkrain Oder Der Laybacher Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -2309,16 +2309,16 @@
     ns1:tag-907-XX-g "Ljubljana" ;
     ns1:tag-907-XX-s "Verwaltungsgrenze" ;
     ns1:tag-909-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <8UzN5SnjigE> a vb:Work ;
     vb:genre <_6paXZz_HA8> ;
     vb:subject <VFE5JwItSPA> ;
     vb:title "Umgebung von Baaden" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Umgebung von Baden" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Umgebung von Baden" ;
     ns1:tag-000 "     nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -2338,7 +2338,7 @@
     ns1:tag-902-XX-h "Niederösterreich" ;
     ns1:tag-902-XX-z "Region" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:isPartOf <ClezJaeayDc>,
+    ns2:isPartOf <ClezJaeayDc>,
         <q_uOUwaRHIQ> .
 
 <8fDUW8mkiBQ> a vb:Work ;
@@ -2349,9 +2349,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Der>> Westliche Theil Von Obersteyermark Oder Der Judenburger Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161117" ;
@@ -2384,8 +2384,8 @@
     ns1:tag-902-XX-g "Judenburg" ;
     ns1:tag-902-XX-s "Verwaltungsgrenze" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <93VvUjtP-TM> a vb:Agent ;
     vb:name "à Iud. Hondio cælatore" ;
@@ -2414,9 +2414,9 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Nova tabula, Insularum Javae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur, vada et brevia scopulique interjacentes" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Nieuwe caerte op Java gheteeckent, van de eylanden van Java, Sumatra, Borneo tot Malacca toe, daer in dat alle de bijleggende eylanden naer t'leven gestelt, ende op haer plaetse geleyt zyn" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Nieuwe caerte op Java gheteeckent, van de eylanden van Java, Sumatra, Borneo tot Malacca toe, daer in dat alle de bijleggende eylanden naer t'leven gestelt, ende op haer plaetse geleyt zyn" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2437,16 +2437,16 @@
     ns1:tag-677-XX-9 "(DE-588)133653269" ;
     ns1:tag-677-XX-d "ca. ca. 1546-1609" ;
     ns1:tag-677-XX-p "Claesz, Cornelis" ;
-    ns3:ctg <kVlQm7ZJaA4> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <kVlQm7ZJaA4> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <9ocuaDxgYhE> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Ägypten; Zypern; Südtürkei; Griechische Inseln]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "24" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "24" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -2459,7 +2459,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <3JvJJKuwtTQ>,
+    ns2:isPartOf <3JvJJKuwtTQ>,
         <YCO9H3PIzbo> .
 
 <B8mkKZ9HmOQ> a vb:Work ;
@@ -2470,8 +2470,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Carte De Moscovie" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2491,8 +2491,8 @@
     ns1:tag-677-XX-9 "(DE-588)129591432" ;
     ns1:tag-677-XX-d "-1752" ;
     ns1:tag-677-XX-p "Liebaux, Henri" ;
-    ns3:ctg <KKOkNcOb9lE> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <KKOkNcOb9lE> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <BCf40U9aShk> a vb:Place ;
     vb:name "Nor." ;
@@ -2503,9 +2503,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Westl. Mittelmeer; Frankreich; Spanien]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "17" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "17" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -2518,16 +2518,16 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <85fit1Ra-Pg>,
+    ns2:isPartOf <85fit1Ra-Pg>,
         <YCO9H3PIzbo> .
 
 <BX2MpbWi9Jo> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Armenien; Aserbaidschan; Russland; Georgien; Iran; Kaspisches Meer]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "20" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "20" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -2540,7 +2540,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <dx52pVQWNKU> .
 
 <BYzP1gVCfgM> a vb:Agent ;
@@ -2557,8 +2557,8 @@
     vb:subject <tlzRbPvUmgk>,
         <zQN1z_3HiFk> ;
     vb:title "Al Mag.co S.or Francesco Scaridino Non mi parea cosa convenie[n]te ch'io Cassiasi andar fuora l'Europa, con la giuta del'africa, et parte del'asia senza ch'io le segnasoi nel Fronte nome honorato, si onde essa nun fusse isprezzata ó, almeno risbeltaia la onae nom sorio posulto in aliso compiaccre as pave di V. S. che per I gra meróli suoi pelvano esser scudo contro el biajmo di guessi che molto sano, ó al giudicio di guessi che frappe senerri nel censurar le altrui cose sono la riccua dun gue il core affetionato alla natia bonta di V. S. alla qualle hunulmente m’incefimo di padova 1570 D[ome]n[i]co Zenoni. / Oratio Beteli" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "01038nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2586,7 +2586,7 @@
     ns1:tag-903-XX-a "4123" ;
     ns1:tag-SID-XX-a "Z39" ;
     ns1:tag-SID-XX-b "BVBKAT" ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:egr <IUm-tYT-1lk> .
 
 <CF9RHbofArc> a vb:ProviderEvent ;
     vb:providerAgent <zGBkM3SPyqQ> ;
@@ -2608,8 +2608,8 @@
     vb:language "ita" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Descrittione del Ducato di Savoia novamente posto in luce in Venetia L'anno MDLXII" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2632,8 +2632,8 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Savoyen" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:ctg <nQwtLSajgs4> ;
-    ns3:prt <IUm-tYT-1lk> .
+    ns2:ctg <nQwtLSajgs4> ;
+    ns2:prt <IUm-tYT-1lk> .
 
 <CLLegIPXgmk> a vb:Person ;
     vb:name "RK 65217" ;
@@ -2659,8 +2659,8 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Nova totius terrarum orbis geographica ac hydrographica tabula" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2677,7 +2677,7 @@
     ns1:tag-434-XX-a "schwarz-weiß" ;
     ns1:tag-435-XX-a "41 x 55 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:ctg <30rIIj6xs60> .
+    ns2:ctg <30rIIj6xs60> .
 
 <CsI0ma14OLA> a vb:Work ;
     vb:creator <MKk4XKVMlHc>,
@@ -2686,8 +2686,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Lusatia Superior" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2704,7 +2704,7 @@
     ns1:tag-425-aX-a "1718" ;
     ns1:tag-435-XX-a "30 x 41 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:isPartOf <bnXzwo9ma48> .
+    ns2:isPartOf <bnXzwo9ma48> .
 
 <Czn79EpXz6g> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -2714,8 +2714,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Accurata Globi Terrestris" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2740,7 +2740,7 @@
     ns1:tag-677-XX-9 "(DE-588)123382432" ;
     ns1:tag-677-XX-d "1717-1777" ;
     ns1:tag-677-XX-p "Lotter, Tobias Conrad" ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:pbl <IUm-tYT-1lk> .
 
 <D61UiYk8nuo> a vb:Person ;
     vb:name "Raffelsperger, Franz" ;
@@ -2758,8 +2758,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Africa" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2792,7 +2792,7 @@
     ns1:tag-902-XX-a "Altkarte" ;
     ns1:tag-902-XX-g "Afrika" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:pbl <IUm-tYT-1lk> .
 
 <DkwYW74S1_c> a vb:Work ;
     vb:creator <au8q9q89zEg> ;
@@ -2800,9 +2800,9 @@
     vb:language "ger" ;
     vb:subject <VFE5JwItSPA> ;
     vb:title "Umgebungen von Wien" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161121" ;
@@ -2842,11 +2842,11 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Verbindung der Waag mit dem Poprad" ;
-    ns2:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
-    ns2:nalCallNumber "OAW",
+    ns3:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Jonction du Waag au Poprad" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Jonction du Waag au Poprad" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2930,8 +2930,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Charte von dem Königreiche Illyrien und dem Herzogthume Steyermark" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2951,8 +2951,8 @@
     ns1:tag-439-XX-d "Kupferstich" ;
     ns1:tag-677-XX-9 "(DE-588)130490369" ;
     ns1:tag-677-XX-p "Bürck, A." ;
-    ns3:ctg <b3ZzhDr3v2E> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <b3ZzhDr3v2E> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <FeR4qc2a1I0> a vb:Work ;
     vb:creator <H8raFk6F1OE>,
@@ -2961,8 +2961,8 @@
     vb:language "dut" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Middel-landtsche Zee" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -2984,15 +2984,15 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Mittelmeer" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:ctg <H8raFk6F1OE> .
+    ns2:ctg <H8raFk6F1OE> .
 
 <Fuf6YbiFNr0> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nord-Russland]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "10" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "10" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -3005,7 +3005,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <zA3sENx0Hrk> .
 
 <G4dZaCkrt6s> a vb:Work ;
@@ -3015,8 +3015,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<La>> carte du Bourdelois, du pays de Médoc, et de la prevesté de Born." ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3040,8 +3040,8 @@
     ns1:tag-902-XX-g "Aquitanien" ;
     ns1:tag-902-XX-s "Küste" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:edt <CVPX0mVwObI> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:edt <CVPX0mVwObI> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <GPiwkxi8kBM> a vb:Person ;
     vb:name "Roberts, Henry" ;
@@ -3074,9 +3074,9 @@
     vb:language "ger" ;
     vb:subject <VFE5JwItSPA> ;
     vb:title "Karte des Sonnblick und Umgebung" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3125,8 +3125,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Neue Land-Tafel von Hungarn und dessen incorporirten Königreichen und Provinzen" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3154,16 +3154,16 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Ungarn" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <eDdzSTfXn0U> .
+    ns2:ctg <eDdzSTfXn0U> .
 
 <In624Mn3bi8> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nordatlantik/Titelei]" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "6" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "6" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -3176,7 +3176,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <bbMxVjweY0w> .
 
 <JEt-UctAd48> a vb:Agent ;
@@ -3216,8 +3216,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Asia" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3250,7 +3250,7 @@
     ns1:tag-902-XX-a "Altkarte" ;
     ns1:tag-902-XX-g "Asien" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:pbl <IUm-tYT-1lk> .
 
 <JuGjzmbFAIM> a vb:Work ;
     ns1:sf-q "16" .
@@ -3263,8 +3263,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "General Karte von dem Oesterreichischen Kaiserstaate" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3288,15 +3288,15 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Österreich" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <b3ZzhDr3v2E> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <b3ZzhDr3v2E> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <JyZInLqM4Q4> a vb:Work ;
     vb:genre <_6paXZz_HA8> ;
     vb:subject <VFE5JwItSPA> ;
     vb:title "Umgebung von Neuberg" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -3315,7 +3315,7 @@
     ns1:tag-902-XX-g "Neuberg an der Mürz" ;
     ns1:tag-902-XX-z "Region" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:isPartOf <ClezJaeayDc>,
+    ns2:isPartOf <ClezJaeayDc>,
         <oJwc21DuRFU> .
 
 <K2Kfxbbb3_M> a vb:Work ;
@@ -3325,11 +3325,11 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Verbindung des Poprad und der Dunajetz mit den beiden Wisloka" ;
-    ns2:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
-    ns2:nalCallNumber "OAW",
+    ns3:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Jonction du Poprad et du Dunajetz aux deux Wisloka" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Jonction du Poprad et du Dunajetz aux deux Wisloka" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3361,9 +3361,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Skelett für die Zusammenstellung der Blätter der Generalkarte von Europa]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "26" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "26" ;
     ns1:tag-000 "     nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -3376,7 +3376,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <EkFHOawOXxA>,
+    ns2:isPartOf <EkFHOawOXxA>,
         <YCO9H3PIzbo> .
 
 <KPH0RcaKM2o> a vb:ProviderEvent ;
@@ -3414,8 +3414,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Facies poli antarctici ex recentissimis itinerariis" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3432,7 +3432,7 @@
     ns1:tag-425-aX-a "1718" ;
     ns1:tag-435-XX-a "32 x 35 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:isPartOf <bnXzwo9ma48> .
+    ns2:isPartOf <bnXzwo9ma48> .
 
 <M0Z8HzGrkTE> a vb:ProviderEvent ;
     vb:providerAgent <Zs58emrUh4Q> ;
@@ -3450,8 +3450,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "General-Karte von Europa in 25 Blättern" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3474,8 +3474,8 @@
     ns1:tag-677-XX-9 "(DE-588)2030321-X" ;
     ns1:tag-677-XX-h "Wien" ;
     ns1:tag-677-XX-k "Artaria und Compagnie" ;
-    ns3:ctg <O51C55s3hLQ> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <O51C55s3hLQ> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <No4UowVPBuA> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -3485,8 +3485,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Die>> Obere oder Nordliche Halbkugel der Erde" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3511,8 +3511,8 @@
     ns1:tag-456-XX-a "[1]" ;
     ns1:tag-677-XX-9 "(DE-588)130385468" ;
     ns1:tag-677-XX-p "Gürsch, Carl Friedrich" ;
-    ns3:ctg <fEPC99h1OCg> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <fEPC99h1OCg> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <NpiVJvqjz6c> a vb:ProviderEvent ;
     vb:providerAgent <Rp78EccfnoA> ;
@@ -3529,8 +3529,8 @@
     vb:language "eng" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<A>> New and Correct Map of the World" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3549,7 +3549,7 @@
     ns1:tag-434-XX-a "schwarz-weiß" ;
     ns1:tag-435-XX-a "57 x 97 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:ctg <uoYzdHiNAZI> .
+    ns2:ctg <uoYzdHiNAZI> .
 
 <OQywEUiSwv4> a vb:Place ;
     vb:name "Toronto" ;
@@ -3572,8 +3572,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Lusatia Inferior" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3590,7 +3590,7 @@
     ns1:tag-425-aX-a "1718" ;
     ns1:tag-435-XX-a "32 x 40 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:isPartOf <bnXzwo9ma48> .
+    ns2:isPartOf <bnXzwo9ma48> .
 
 <PMvjP8Qn6Ws> a vb:ProviderEvent ;
     vb:providerAgent <WEj7oafUrv8> ;
@@ -3607,9 +3607,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Ethnographische Karte der Oesterreichischen Monarchie" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3637,7 +3637,7 @@
     ns1:tag-907-XX-g "Österreich" ;
     ns1:tag-907-XX-s "Thematische Karte" ;
     ns1:tag-909-aX-a "ONBKRP" ;
-    ns3:ctg <OuDjAIKYb5M> .
+    ns2:ctg <OuDjAIKYb5M> .
 
 <PyZiBaF1RrU> a vb:ProviderEvent ;
     vb:providerAgent <d79EU-WzDSA> ;
@@ -3655,8 +3655,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Carte Geographicque des Postes qui traversent la France" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3682,8 +3682,8 @@
     ns1:tag-902-XX-g "Frankreich" ;
     ns1:tag-902-XX-s "Postroute" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:ctg <QXTTL4U7SO4> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <QXTTL4U7SO4> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <QA0pGx7Oui4> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -3693,9 +3693,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Der>> Gœrzer Kreis Und Der Triester Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -3734,16 +3734,16 @@
     ns1:tag-907-XX-g "Triest" ;
     ns1:tag-907-XX-s "Verwaltungsgrenze" ;
     ns1:tag-909-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <QgkY_4mX4kI> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Portugal; West-Spanien]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "16" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "16" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -3756,7 +3756,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <JuGjzmbFAIM>,
+    ns2:isPartOf <JuGjzmbFAIM>,
         <YCO9H3PIzbo> .
 
 <QwqJbnxLuRQ> a vb:Work ;
@@ -3764,9 +3764,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Tabula Geographica Circulorum Austriaci et Bavarici Imperii Romano-Germanici" ;
-    ns2:additionalPhysicalForm "Geographischer Atlas bestehend in 44 Land-Charten, worauf alle Theile des Erd-Creyses vorgestellet werden" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:additionalPhysicalForm "Geographischer Atlas bestehend in 44 Land-Charten, worauf alle Theile des Erd-Creyses vorgestellet werden" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3792,8 +3792,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<L'>>Amerique" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -3857,9 +3857,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Tabula Geographica Europae Austriacae Generalis sive Regionum Terrarumque Omnium ac Singularum Augustissimae Domui Austriacae Hereditariarum" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161121" ;
@@ -3889,8 +3889,8 @@
     ns1:tag-907-XX-g "Mitteleuropa" ;
     ns1:tag-907-XX-z "Süd" ;
     ns1:tag-909-aX-a "ONBKRP" ;
-    ns3:ctg <gENM-c_V55o> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <gENM-c_V55o> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <T0f_ZWZ9OfA> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -3900,9 +3900,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Oberkærnten Oder Der Villacher Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161117" ;
@@ -3936,8 +3936,8 @@
     ns1:tag-902-XX-g "Villach" ;
     ns1:tag-902-XX-s "Verwaltungsgrenze" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <T2g7XptNBVc> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -3945,8 +3945,8 @@
         <fEPC99h1OCg> ;
     vb:language "ger" ;
     vb:title "[Auf den Horizont von Berlin entworfene neue Weltcharte in zween Hemisphären]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20160223" ;
@@ -3964,7 +3964,7 @@
     ns1:tag-677-XX-9 "(DE-588)118587668" ;
     ns1:tag-677-XX-d "1733-1811" ;
     ns1:tag-677-XX-p "Nicolai, Friedrich" ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:pbl <IUm-tYT-1lk> .
 
 <T8u-8H5nhXQ> a vb:Agent ;
     vb:name "Christiano Wechelo" ;
@@ -3990,9 +3990,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Algerien, Tunesien]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "22" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "22" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -4005,7 +4005,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <qkF2ez4UJ7g> .
 
 <TmEOxjHwLKY> a vb:ProviderEvent ;
@@ -4061,9 +4061,9 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Descriptio Hydrogaphica accomodata ad Battavorum Navigatione in Javam insulam Indiae Orientalis, saetam ad quam postridie Calendas Aprilis ann'1595 ex Hollandia solverunt et ex qua domum redierunt Idus Augusti anno 1597 Horum extus reditusq' via his notis demonstratur De hac navigatione extat descriptio lectu perquam admiranda" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Eygengliche und ausfuhrliche Mappa de Orientallischen Indien darinen auch mit puntien angezeichnet di hin und widerum Reisse der Hollander nach der Inseln Java welche den anderen tag deß Monat Aprils im 1595 Jahr von Holland sind außgefahren und den 14 Augusti A° 1597 wider in Holland an sind komen wi di Histori hie von Meldet" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Eygengliche und ausfuhrliche Mappa de Orientallischen Indien darinen auch mit puntien angezeichnet di hin und widerum Reisse der Hollander nach der Inseln Java welche den anderen tag deß Monat Aprils im 1595 Jahr von Holland sind außgefahren und den 14 Augusti A° 1597 wider in Holland an sind komen wi di Histori hie von Meldet" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4081,7 +4081,7 @@
     ns1:tag-434-XX-a "schwarz-weiß" ;
     ns1:tag-435-XX-a "35 x 66 cm, Blätter 35 x 28 cm und 35 x 38 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:ctg <kVlQm7ZJaA4> .
+    ns2:ctg <kVlQm7ZJaA4> .
 
 <UzXCjU1gXu4> a vb:ProviderEvent ;
     vb:providerAgent <x6FzNEJKETE> ;
@@ -4109,9 +4109,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Russland; Kasachstan; Kaspisches Meer]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "15" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "15" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -4124,7 +4124,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <ci1F3lDYgkM> .
 
 <W_e5ew9s1S8> a vb:Work ;
@@ -4135,8 +4135,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Karte der Œsterreichischen Monarchie und der von Österreichischen Prinzen und Prinzessinen beherrschten Italienischen Staaten als Toscana Modena Parma und Massa" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4162,16 +4162,16 @@
     ns1:tag-677-XX-h "Wien" ;
     ns1:tag-677-XX-k "Artaria und Compagnie" ;
     ns1:tag-677-XX-p "Reißer, Franz" ;
-    ns3:ctg <y00S2cei8cA> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <y00S2cei8cA> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <Wit7o2rwjPU> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Syrisch-Arabische Wüste]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "25" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "25" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -4184,7 +4184,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <wvKyOgF8kq4> .
 
 <XQzDu4V2EUk> a vb:Work ;
@@ -4194,10 +4194,10 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Verbindung der Sann und des Bug mit dem Niester" ;
-    ns2:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Jonction de la Sann et du Bug au Niester" ;
+    ns3:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Jonction de la Sann et du Bug au Niester" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4234,8 +4234,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Influenzkarte der Eilpost-Diligenze- und Packwagen-Course in dem Kaiserthume Österreich und in den angränzenden Ländern bis Rom, Genua, Paris, Brüssel, Hamburg, Berlin, Petersburg, Odessa, Constatinopel, Corfu" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4262,7 +4262,7 @@
     ns1:tag-907-XX-n "Themakarte" ;
     ns1:tag-907-XX-s "Verkehr" ;
     ns1:tag-909-aX-a "ONBKRP" ;
-    ns3:ctg <dB18jHh3-vY> .
+    ns2:ctg <dB18jHh3-vY> .
 
 <Xk_ljQBxV1k> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -4272,8 +4272,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Recens Edita totius Novi Belgii, in America Septentrionali siti" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4295,8 +4295,8 @@
     ns1:tag-677-XX-9 "(DE-588)118613537" ;
     ns1:tag-677-XX-d "1678-1757" ;
     ns1:tag-677-XX-p "Seutter, Matthäus" ;
-    ns3:ctg <xuDouem8YjM> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <xuDouem8YjM> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <XqB1oyFMUag> a vb:Work ;
     ns1:sf-q "18" .
@@ -4336,9 +4336,9 @@
 
 <ZyVXVpaKncM> a vb:Work ;
     vb:language "fre" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleNumber "[Première Feuille]" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleNumber "[Première Feuille]" ;
     ns1:tag-000 "00000nM2.01200024||||||u",
         "MU" ;
     ns1:tag-026-XX-a "OBVAC13303831" ;
@@ -4352,7 +4352,7 @@
     ns1:tag-425-aX-a "1745" ;
     ns1:tag-434-XX-a "schwarz-weiß" ;
     ns1:tag-439-XX-a "Kupferstich" ;
-    ns3:isPartOf <fS-fziVIbwU>,
+    ns2:isPartOf <fS-fziVIbwU>,
         <gldkseZVU5o> .
 
 <ZzYMmm5d6wg> a vb:Work ;
@@ -4362,8 +4362,8 @@
     vb:language "ger" ;
     vb:subject <EcBOH6bvkw0> ;
     vb:title "Allgemeine Welt_Karte in Mercator's Projection." ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4386,7 +4386,7 @@
     ns1:tag-902-XX-f "Karte" ;
     ns1:tag-902-XX-s "Verkehrsweg" ;
     ns1:tag-904-aX-a "ONBREB" ;
-    ns3:ctg <S1U1XNLOS3Q> .
+    ns2:ctg <S1U1XNLOS3Q> .
 
 <_4QgS1_9gsM> a vb:Work ;
     ns1:sf-q "8" .
@@ -4405,9 +4405,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Unterkrain oder der Neustædtler Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -4440,8 +4440,8 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Unterkrain" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <_k1xis9IjUU> a vb:Place ;
     vb:name "Padova" ;
@@ -4456,9 +4456,9 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Weltkarte]" ;
-    ns2:additionalPhysicalForm "Speculum solis, das ist: Sonnenspiegel" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:additionalPhysicalForm "Speculum solis, das ist: Sonnenspiegel" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4478,7 +4478,7 @@
     ns1:tag-902-XX-9 "(DE-588)4065368-7" ;
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-s "Weltkarte" ;
-    ns3:egr <CI_UReJ266s> .
+    ns2:egr <CI_UReJ266s> .
 
 <_mzaGjb9ZzU> a vb:Person ;
     vb:name "Moll, Herman" ;
@@ -4526,10 +4526,10 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Die>> Fr. Grafschaft Tirol" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "<<Die>> Fürstliche Grafschaft Tirol" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "<<Die>> Fürstliche Grafschaft Tirol" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161121" ;
@@ -4554,8 +4554,8 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Tirol" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <ZhWJvHuthOM> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <ZhWJvHuthOM> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <bOnv_sza35w> a vb:Agent ;
     vb:name "Ausp. Acad. Reg. Scient. et Eleg. Litt." ;
@@ -4573,8 +4573,8 @@
     vb:language "eng" ;
     vb:subject <VFE5JwItSPA> ;
     vb:title "Map of the Northwest Part of Canada Indian Territories & Hudson's Bay" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4597,7 +4597,7 @@
     ns1:tag-434-XX-a "farbig" ;
     ns1:tag-435-XX-a "154 x 142 cm, Blätter 90 x 81 cm" ;
     ns1:tag-439-XX-d "Lithografie" ;
-    ns3:ctg <7B_MhDrCUPY> .
+    ns2:ctg <7B_MhDrCUPY> .
 
 <bbMxVjweY0w> a vb:Work ;
     ns1:sf-q "6" .
@@ -4612,8 +4612,8 @@
 
 <cLlMIF-hj0M> a vb:Work ;
     vb:title "Umgebung vom Berge Wechsel" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -4632,7 +4632,7 @@
     ns1:tag-902-XX-h "Gebirge" ;
     ns1:tag-902-XX-z "Region" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:isPartOf <ClezJaeayDc>,
+    ns2:isPartOf <ClezJaeayDc>,
         <mHIqgMnIM2Y> .
 
 <ci1F3lDYgkM> a vb:Work ;
@@ -4680,9 +4680,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nordöstliches Mitteleuropa]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "13" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "13" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -4695,7 +4695,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <6xn7HjIlQvA>,
+    ns2:isPartOf <6xn7HjIlQvA>,
         <YCO9H3PIzbo> .
 
 <dTWjAXnsbME> a vb:Work ;
@@ -4706,9 +4706,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Karte der Œsterreichischen Monarchie" ;
-    ns2:additionalPhysicalForm "Atlas der neuesten Geographie, 8" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:additionalPhysicalForm "Atlas der neuesten Geographie, 8" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4734,8 +4734,8 @@
     ns1:tag-902-XX-f "Karte" ;
     ns1:tag-902-XX-g "Österreich-Ungarn" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <y00S2cei8cA> ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:ctg <y00S2cei8cA> ;
+    ns2:pbl <IUm-tYT-1lk> .
 
 <dgOk9umfrMo> a vb:Person ;
     vb:name "Vischer, Georg Matthäus" ;
@@ -4766,8 +4766,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Europa" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4800,8 +4800,8 @@
     ns1:tag-902-XX-a "Altkarte" ;
     ns1:tag-902-XX-g "Europa" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:ctg <xuDouem8YjM> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <xuDouem8YjM> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <eZPMm5JA6v0> a vb:Agent ;
     vb:name "[G. Nicol and T. Cadell]" ;
@@ -4824,8 +4824,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Der Oesterreichische Kreis" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4844,7 +4844,7 @@
     ns1:tag-425-aX-a "1788" ;
     ns1:tag-435-XX-a "43,5 x 57 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:ctg <A0cWIwaU6jw> .
+    ns2:ctg <A0cWIwaU6jw> .
 
 <etFssGhj28c> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -4854,8 +4854,8 @@
     vb:language "ita" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Il>> disegno della seconda Parte dell'Asia" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4880,8 +4880,8 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Asien" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <a1CTIYmL53c> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <a1CTIYmL53c> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <ey2JxD3bqNY> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -4891,9 +4891,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Der>> Nœrdliche Theil Von Untersteyermark Oder Der Grætzer Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161117" ;
@@ -4928,8 +4928,8 @@
     ns1:tag-902-XX-g "Graz" ;
     ns1:tag-902-XX-s "Verwaltungsgrenze" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <f7wO7zud60Q> a vb:Person ;
     vb:name "Devine, Thomas" ;
@@ -4946,10 +4946,10 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Grundriß und Durchschnitt zwoer Schleusen um die Bewegungsart zu zeigen wie ein Schiff sich stuffenweise zu gewissen Hoehen erheben und ebenso wieder abwaerts gehen koenne" ;
-    ns2:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Plan et Coupe de deux Ecluses a l'effer de montrer par quel mecanisme un Bateau peut, s'élever graduellement à de certaines hauteurs et en descendre" ;
+    ns3:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Plan et Coupe de deux Ecluses a l'effer de montrer par quel mecanisme un Bateau peut, s'élever graduellement à de certaines hauteurs et en descendre" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -4981,9 +4981,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Island - Nordpolarmeer]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "2" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "2" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -4996,7 +4996,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <H0aRmrBG2YA>,
+    ns2:isPartOf <H0aRmrBG2YA>,
         <YCO9H3PIzbo> .
 
 <g0vZpzLREjI> a vb:Work ;
@@ -5007,9 +5007,9 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5038,8 +5038,8 @@
     ns1:tag-902-XX-g "Österreich" ;
     ns1:tag-902-XX-s "Hydrologie" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <KfE7Ul7KPRA> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <KfE7Ul7KPRA> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <g9sC-LmuUnA> a vb:Work ;
     ns1:sf-q "11" .
@@ -5052,9 +5052,9 @@
     vb:language "ger" ;
     vb:subject <VFE5JwItSPA> ;
     vb:title "Reise- und Gebirgs-Karte vom Lande Salzburg mit Berchtesgaden und dem Salzkammergut nebst den angränzenden österreichisch- und bayerischen Landestheilen" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "UBS" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00806nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -5089,8 +5089,8 @@
     ns1:tag-912-XX-f "Karte" ;
     ns1:tag-912-XX-g "Land Salzburg" ;
     ns1:tag-914-aX-a "UBS" ;
-    ns3:ctg <IhADWmfiLiI> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <IhADWmfiLiI> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <gNnY6oZdwVc> a vb:ProviderEvent ;
     vb:providerAgent <E7fSeWUzR7s> ;
@@ -5140,9 +5140,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nordsee]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "7" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "7" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -5155,7 +5155,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <pMMpzuTu4KA> .
 
 <hr1Cjc23ijs> a vb:Work ;
@@ -5165,10 +5165,10 @@
     vb:language "lat" ;
     vb:subject <jQcpHFga_Ms> ;
     vb:title "Archiducatus Austriae Inferioris Geographica et Noviter Emendata Accuratissima Descriptio" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmCallNumber "cri" ;
-    ns2:nlmCopyStatement "n" ;
+    ns3:nlmCallNumber "cri" ;
+    ns3:nlmCopyStatement "n" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5196,8 +5196,8 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Niederösterreich" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <Rtu25LH3Nxw> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <Rtu25LH3Nxw> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <hvNIgNdnxAA> a vb:Agent ;
     vb:name "[Théodore de Bry]" ;
@@ -5223,9 +5223,9 @@
     vb:subject <jQcpHFga_Ms>,
         <tlzRbPvUmgk> ;
     vb:title "Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire" ;
-    ns2:nalCallNumber "BAY",
+    ns3:nalCallNumber "BAY",
         "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "01037nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5266,7 +5266,7 @@
     ns1:tag-913-XX-a "213" ;
     ns1:tag-SID-XX-a "Z39" ;
     ns1:tag-SID-XX-b "BVBKAT" ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:egr <IUm-tYT-1lk> .
 
 <j1OZ5Kcfxzc> a vb:ProviderEvent ;
     vb:providerAgent <u32OENeJzBk> ;
@@ -5280,9 +5280,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Westsibirien]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "5" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "5" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -5295,7 +5295,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <IlYjKjZzzCE>,
+    ns2:isPartOf <IlYjKjZzzCE>,
         <YCO9H3PIzbo> .
 
 <jGIcJtq6lsg> a vb:Place ;
@@ -5311,9 +5311,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Große Syrte; Sizilien; Pelopones]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "23" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "23" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -5326,16 +5326,16 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <ZHscPWwjA0Q> .
 
 <kK3AF4R9wU0> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Titelei]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleNumber "1" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleNumber "1" ;
     ns1:tag-000 "     nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -5348,7 +5348,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <gldkseZVU5o> .
 
 <kL2p167R7x8> a vb:Person ;
@@ -5372,10 +5372,10 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Uibersichts-Karte der neu organisirten Gerichts und Verwaltungs Bezirke der Kronländer Erzherzogthum Österreich ob der Enns und Herzogthum Salzburg" ;
-    ns2:nalCallNumber "LBO",
+    ns3:nalCallNumber "LBO",
         "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Übersichtskarte der neu organisierten Gerichts und Verwaltungs Bezirke der Kronländer Erzherzogthum Österreich ob der Enns und Herzogthum Salzburg" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Übersichtskarte der neu organisierten Gerichts und Verwaltungs Bezirke der Kronländer Erzherzogthum Österreich ob der Enns und Herzogthum Salzburg" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5400,15 +5400,15 @@
     ns1:tag-907-XX-f "Altkarte" ;
     ns1:tag-907-XX-g "Salzburg" ;
     ns1:tag-909-aX-a "LBOFAI" ;
-    ns3:ctg <IsngVIASKLg> .
+    ns2:ctg <IsngVIASKLg> .
 
 <kwBDuRN8QEg> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:language "rus" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Merkatorskaja karta časti južnago okeana okolo mysa Gorna" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5428,12 +5428,12 @@
     ns1:tag-435-XX-a "31,2 x 51,3cm" ;
     ns1:tag-439-XX-d "Matrizendruck" ;
     ns1:tag-503-XX-a "Markatorkarte des Teiles des südlichen Ozeans um das Kap Hoorn: nach den Angaben der kapitäne Cook und Bellingshausen und neuerer Entdeckungen" ;
-    ns3:isTranslationOf <r3-eFnLGPl0> .
+    ns2:isTranslationOf <r3-eFnLGPl0> .
 
 <kwKCv-MNB3Y> a vb:Work ;
     vb:title "Umgebung von Gutenstein" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20161116" ;
@@ -5452,7 +5452,7 @@
     ns1:tag-902-XX-h "Niederösterreich" ;
     ns1:tag-902-XX-z "Region" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:isPartOf <ClezJaeayDc>,
+    ns2:isPartOf <ClezJaeayDc>,
         <Ggvm5-RDtNc> .
 
 <kxvtHHiSawc> a vb:Work ;
@@ -5463,9 +5463,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Der>> Œstliche Theil Von Obersteyermark Oder Der Brucker Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161117" ;
@@ -5498,8 +5498,8 @@
     ns1:tag-902-XX-g "Bruck an der Mur" ;
     ns1:tag-902-XX-s "Verwaltungsgrenze" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <l7psxRDW0Cc> a vb:Person ;
     vb:name "Colom, Arnold" ;
@@ -5519,10 +5519,10 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Tyrolis Sub Felici Regimine Mariæ Theresiæ Rom. Imper. Aug." ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Atlas Tyrolensis" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Atlas Tyrolensis" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5557,8 +5557,8 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Tirol" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <c6-Xfek-Sbc> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <c6-Xfek-Sbc> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <ls0742H8kDw> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -5568,8 +5568,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Le>> Nouveau Mexique et La Terre de Jesso" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024||||||h",
         "MH" ;
     ns1:tag-026 "OBVAC13304657" ;
@@ -5592,7 +5592,7 @@
     ns1:tag-455-XX-a "1" ;
     ns1:tag-677-XX-9 "(DE-588)103760873" ;
     ns1:tag-677-XX-p "Liébaux, Jean Baptiste" ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:egr <IUm-tYT-1lk> .
 
 <lvRemUJOUDA> a vb:ProviderEvent ;
     vb:providerAgent <COc0wNIBlRc> ;
@@ -5615,8 +5615,8 @@
     vb:language "lat" ;
     vb:subject <EcBOH6bvkw0> ;
     vb:title "Typus Totius Orbis Terrarum," ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161121" ;
@@ -5644,7 +5644,7 @@
     ns1:tag-434-XX-a "schwarz-weiß" ;
     ns1:tag-435-XX-a "35 x 46 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:edt <Yj_TAAMJZI0> .
+    ns2:edt <Yj_TAAMJZI0> .
 
 <mQeshKybits> a vb:Place ;
     vb:name "[St. Petersburg]" ;
@@ -5665,8 +5665,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "America Meridionalis" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5699,7 +5699,7 @@
     ns1:tag-902-XX-a "Altkarte" ;
     ns1:tag-902-XX-g "Südamerika" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:pbl <IUm-tYT-1lk> .
 
 <ncrq-83VxQM> a vb:Place ;
     vb:name "[Nürnberg]" ;
@@ -5715,8 +5715,8 @@
     vb:language "ita" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Vienna" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5741,16 +5741,16 @@
     ns1:tag-902-XX-g "Wien" ;
     ns1:tag-902-XX-s "Stadtplan" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:egr <IUm-tYT-1lk> ;
-    ns3:prt <IUm-tYT-1lk> .
+    ns2:egr <IUm-tYT-1lk> ;
+    ns2:prt <IUm-tYT-1lk> .
 
 <oGEKSMarab4> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Weißrussland]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "14" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "14" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -5763,7 +5763,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <1tGRbjvVDvk>,
+    ns2:isPartOf <1tGRbjvVDvk>,
         <YCO9H3PIzbo> .
 
 <oJwc21DuRFU> a vb:Work ;
@@ -5817,8 +5817,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Erzherzogthum Österreich" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161117" ;
@@ -5838,7 +5838,7 @@
     ns1:tag-677-XX-9 "(DE-588)16114461-5" ;
     ns1:tag-677-XX-b "Schulbücher-Verschleiß-Administration" ;
     ns1:tag-677-XX-k "Österreich" ;
-    ns3:pbl <IUm-tYT-1lk> .
+    ns2:pbl <IUm-tYT-1lk> .
 
 <r6cFgF9GeWk> a vb:ProviderEvent ;
     vb:providerDate "[1668]" ;
@@ -5854,8 +5854,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Karte Der Eisenbahn Zwischen Budweis Und Linz Zur Verbindung Der Donau Mit Der Moldau" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5880,8 +5880,8 @@
     ns1:tag-902-XX-g "Linz" ;
     ns1:tag-902-XX-s "Pferdebahn" ;
     ns1:tag-904-aX-a "OAW" ;
-    ns3:edt <bi7qTgoRRcA> ;
-    ns3:ltg <IUm-tYT-1lk> .
+    ns2:edt <bi7qTgoRRcA> ;
+    ns2:ltg <IUm-tYT-1lk> .
 
 <rNX-g_kC7sk> a vb:Agent ;
     vb:name "[gedruckt bei Christian Ludewig Kunst]" ;
@@ -5919,9 +5919,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nordosteuropäische Küste]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "4" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "4" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -5934,7 +5934,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <7Ga4aiaKLb4>,
+    ns2:isPartOf <7Ga4aiaKLb4>,
         <YCO9H3PIzbo> .
 
 <rul6ZG7Ynsc> a vb:ProviderEvent ;
@@ -5960,8 +5960,8 @@
     vb:language "eng" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<A>> General Chart Exhibiting the Discoveries made by Capt.n James Cook in this and his two preciding Voyages" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -5987,7 +5987,7 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-s "Entdeckungsreise" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:egr <IUm-tYT-1lk> .
 
 <sbgIKdVhKcc> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -5997,8 +5997,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<La>> Mer de Nort où sont la N.le France, La Floride, la N.le Espagne, les Isles et la Terre-Ferme d'Amerique" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024||||||h",
         "MH" ;
     ns1:tag-003 "20160906" ;
@@ -6022,7 +6022,7 @@
     ns1:tag-455-XX-a "2" ;
     ns1:tag-677-XX-9 "(DE-588)103760873" ;
     ns1:tag-677-XX-p "Liébaux, Jean Baptiste" ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:egr <IUm-tYT-1lk> .
 
 <sq69ceo20cM> a vb:Agent ;
     vb:name "chez Artaria & Compagnie" ;
@@ -6038,8 +6038,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Die>> Untere oder Südliche Halbkugel der Erde" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6063,16 +6063,16 @@
     ns1:tag-455-XX-a "[2]" ;
     ns1:tag-677-XX-9 "(DE-588)130385468" ;
     ns1:tag-677-XX-p "Gürsch, Carl Friedrich" ;
-    ns3:ctg <fEPC99h1OCg> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <fEPC99h1OCg> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <tBKUXB9eNds> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Mer Mediterranée" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024||||||h",
         "MH" ;
     ns1:tag-026 "OBVAC13303840",
@@ -6122,8 +6122,8 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Reise- und Gebirgs-Karte vom Lande Salzburg mit Berchtesgaden und dem Salzkammergut" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00331nM2.01000024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6158,8 +6158,8 @@
     ns1:tag-917-XX-9 "(DE-588)4051442-0" ;
     ns1:tag-917-XX-f "Karte" ;
     ns1:tag-917-XX-g "Salzkammergut" ;
-    ns3:ctg <IhADWmfiLiI> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <IhADWmfiLiI> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <ttSaRbEB4W4> a vb:Work ;
     vb:creator <MKk4XKVMlHc>,
@@ -6168,8 +6168,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Facies poli arctici adiacentiumque ei regionum ex recentissimis itinerariis" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6186,7 +6186,7 @@
     ns1:tag-425-aX-a "1718" ;
     ns1:tag-435-XX-a "32 x 36 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:isPartOf <bnXzwo9ma48> .
+    ns2:isPartOf <bnXzwo9ma48> .
 
 <u3-JYyeIikU> a vb:Work ;
     vb:creator <AU4q9F4GMFI> ;
@@ -6194,10 +6194,10 @@
     vb:language "por" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Macao" ;
-    ns2:additionalPhysicalForm "Asia portuguesa, tomo III, Seite 362" ;
-    ns2:nalCallNumber "BAY",
+    ns3:additionalPhysicalForm "Asia portuguesa, tomo III, Seite 362" ;
+    ns3:nalCallNumber "BAY",
         "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00868nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6215,7 +6215,7 @@
     ns1:tag-434-XX-a "schwarz-weiß" ;
     ns1:tag-435-XX-a "18 x 24,7 cm" ;
     ns1:tag-439-XX-d "Holzschnitt" ;
-    ns3:edt <AU4q9F4GMFI> .
+    ns2:edt <AU4q9F4GMFI> .
 
 <u32OENeJzBk> a vb:Agent ;
     vb:name "Franz Raffelsberger" ;
@@ -6230,10 +6230,10 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Verbindung der Drau mit der Save" ;
-    ns2:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Jonction de la Drave a la Save" ;
+    ns3:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Jonction de la Drave a la Save" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6282,9 +6282,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Unterkærnten Oder Der Klagenfurter Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161117" ;
@@ -6316,8 +6316,8 @@
     ns1:tag-902-XX-g "Klagenfurt" ;
     ns1:tag-902-XX-s "Verwaltungsgrenze" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <vkgG1kF6pCw> a vb:Work ;
     vb:creator <GeoDQPFrl6g>,
@@ -6326,8 +6326,8 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Nouveau Plan de Paris et de ses Faubourgs" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6349,7 +6349,7 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Paris" ;
     ns1:tag-904-aX-a "OAWKXA" ;
-    ns3:ctg <GeoDQPFrl6g> .
+    ns2:ctg <GeoDQPFrl6g> .
 
 <w3c7YjgzuBI> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -6359,9 +6359,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Die>> Provinz Inner-Œsterreich Oder Die Herzogthümer Steyermark, Kærnten Und Krain, Die Grafschaften Gœrz Und Gradisca Und Das Deutsch-Œsterreichische Litorale" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024||||||h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -6393,8 +6393,8 @@
     ns1:tag-902-XX-g "Innerösterreich" ;
     ns1:tag-902-XX-s "Kartenwerk" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <w8QHPptRqBw> a vb:Agent ;
     vb:name "Friedrich Nicolai" ;
@@ -6409,8 +6409,8 @@
     vb:language "lat" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Novissima Tabula ergionis Ludovicianae Gallice dictae la Louisiane" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6429,15 +6429,15 @@
     ns1:tag-434-XX-a "1 Kartusche" ;
     ns1:tag-435-XX-a "31 x 42 cm" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:isPartOf <bnXzwo9ma48> .
+    ns2:isPartOf <bnXzwo9ma48> .
 
 <whsz0U4YebA> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Adria; Italien; Kroatien; Türkei]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "18" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "18" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -6450,7 +6450,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <XqB1oyFMUag>,
+    ns2:isPartOf <XqB1oyFMUag>,
         <YCO9H3PIzbo> .
 
 <wuBV5WwHvx0> a vb:ProviderEvent ;
@@ -6482,9 +6482,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "<<Der>> Südliche Theil Von Untersteyermark Oder Der Cillier Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161118" ;
@@ -6517,8 +6517,8 @@
     ns1:tag-902-XX-g "Celje" ;
     ns1:tag-902-XX-s "Verwaltungsgrenze" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <xf7nM4vCJ7I> a vb:Work ;
     vb:contributor <IUm-tYT-1lk> ;
@@ -6528,9 +6528,9 @@
     vb:language "ger" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Innerkrain Oder Der Adelsberger Kreis" ;
-    ns2:nalCallNumber "OAW",
+    ns3:nalCallNumber "OAW",
         "ONB" ;
-    ns2:nlmItemNumber "cri" ;
+    ns3:nlmItemNumber "cri" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161117" ;
@@ -6563,16 +6563,16 @@
     ns1:tag-902-XX-f "Altkarte" ;
     ns1:tag-902-XX-g "Innerkrain" ;
     ns1:tag-904-aX-a "ONBKRP" ;
-    ns3:ctg <3sP0zpCvEt0> ;
-    ns3:egr <IUm-tYT-1lk> .
+    ns2:ctg <3sP0zpCvEt0> ;
+    ns2:egr <IUm-tYT-1lk> .
 
 <xz9PToJf7Xk> a vb:Work ;
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Nordwestirland]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "11" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "11" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -6585,7 +6585,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <g9sC-LmuUnA> .
 
 <y1rsiapliyU> a vb:Work ;
@@ -6595,10 +6595,10 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Verbindung des Adriatischen Meeres mit der Kulpa" ;
-    ns2:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Jonction de la mer Adriatique à la Culpa" ;
+    ns3:additionalPhysicalForm "Maire, François Joseph, 1738-1788. Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins. Wien, Ch. & Fred. Bargum & Comp., [1786]" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Jonction de la mer Adriatique à la Culpa" ;
     ns1:tag-000 "     nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6632,9 +6632,9 @@
     vb:genre <rVR-eXk2jvQ> ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "[Schwarzes Meer und Küstenstaaten]" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "txt" ;
-    ns2:titleNumber "19" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "txt" ;
+    ns3:titleNumber "19" ;
     ns1:tag-000 "00000nM2.01200024      u",
         "MU" ;
     ns1:tag-003 "20160706" ;
@@ -6647,7 +6647,7 @@
     ns1:tag-064-aX-9 "(DE-588)4611904-8" ;
     ns1:tag-076-sX-a "50" ;
     ns1:tag-425-aX-a "1872" ;
-    ns3:isPartOf <YCO9H3PIzbo>,
+    ns2:isPartOf <YCO9H3PIzbo>,
         <pVkm_4bNq8E> .
 
 <yx6D6SsU6EQ> a vb:ProviderEvent ;
@@ -6671,9 +6671,9 @@
     vb:language "fre" ;
     vb:subject <tlzRbPvUmgk> ;
     vb:title "Carte Originale et particuliere da la Bosnie dans son entier la prémiere donnée au public, jusqu'a ce jour, nous navons jamais encore eû aucune Carte particuliere de cette Célébre Province tant rénommée, qui fait depuis plusieurs siécles tant de bruit dans le Monde, avec la Croatie, Lé sclavonie, la Morlaquie, partie de l'hongrie, Stirie, Comté de Cilley, Carenthie, Carniole, parties des Confins maritimes; partie de la Dalmatie, Servie et le L'albanie" ;
-    ns2:nalCallNumber "OAW" ;
-    ns2:nlmItemNumber "cri" ;
-    ns2:titleVariation "Le Royaume de Bosnie, dans son entier [...]" ;
+    ns3:nalCallNumber "OAW" ;
+    ns3:nlmItemNumber "cri" ;
+    ns3:titleVariation "Le Royaume de Bosnie, dans son entier [...]" ;
     ns1:tag-000 "00000nM2.01200024      h",
         "MH" ;
     ns1:tag-003 "20161116" ;
@@ -6691,7 +6691,7 @@
     ns1:tag-435-XX-a "61,5 x 93,5 cm" ;
     ns1:tag-439-XX-a "Seide" ;
     ns1:tag-439-XX-d "Kupferstich" ;
-    ns3:ctg <IUm-tYT-1lk> .
+    ns2:ctg <IUm-tYT-1lk> .
 
 <zA3sENx0Hrk> a vb:Work ;
     ns1:sf-q "10" .
@@ -6719,8 +6719,8 @@
     ns1:sf-c "[1786]" .
 
 <zQN1z_3HiFk> a vb:Concept ;
-    ns2:generalSubdivision "Resolving-System" ;
-    ns2:geographicSubdivision "kostenfrei" ;
+    ns3:generalSubdivision "Resolving-System" ;
+    ns3:geographicSubdivision "kostenfrei" ;
     ns1:sf-3 "Volltext // 2014 digitalisiert von: Bayerische Staatsbibliothek, München. Exemplar mit der Signatur: München, Bayerische Staatsbibliothek -- 2 Mapp. 464#168" ;
     ns1:sf-u "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00092212-3" ;
     ns1:sf-x "Resolving-System" ;
@@ -7004,7 +7004,7 @@
     ns1:sf-q "1" .
 
 <jQcpHFga_Ms> a vb:Concept ;
-    ns2:generalSubdivision "ONB-DTL" ;
+    ns3:generalSubdivision "ONB-DTL" ;
     ns1:sf-3 "Digitales Objekt" ;
     ns1:sf-m "V:AT-OBV;B:AT-OeNB" ;
     ns1:sf-q "application/html" ;
